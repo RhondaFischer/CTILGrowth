@@ -1,0 +1,3613 @@
+<records>
+<rec resultID="1">
+  <header shortDbName="edselp" longDbName="ScienceDirect" uiTerm="S0899588521000344">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Critical Care Nursing Clinics of North America</jtl>
+        <issn type="electronic">08995885</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="09" day="01">September 2021</dt>
+        <vid>33</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.cnc.2021.05.010</ui>
+        <ppf>357</ppf>
+        <ppct>12</ppct>
+        <tig>
+          <atl>The Role of Tele-Critical Care in Rescue and Resuscitation</atl>
+        </tig>
+        <aug>
+          <au>Winterbottom, Fiona A.</au>
+        </aug>
+        <sug>
+          <subj type="unclass">Tele-ICU</subj>
+          <subj type="unclass">Tele-critical care</subj>
+          <subj type="unclass">Rapid response</subj>
+          <subj type="unclass">Resuscitation</subj>
+        </sug>
+        <ab>Tele-critical care (TCC) is a health care delivery model that connects medical information, interprofessional teams, patients, and families through advanced pathways, such as audio-video interfaces, machine learning, risk prediction algorithms, smart alarms, artificial intelligence, and physiologic sensing devices. TCC expands critical care services and expertise beyond the walls of the intensive care unit to logistic centers, emergency departments, general wards, war zones, disaster settings, and pandemics. This article describes the broad use of TCC for rescue and resuscitation and provides case presentations.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>rev</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edselp&amp;AN=S0899588521000344&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="2">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="34135273">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Critical care medicine</jtl>
+        <jtl>Crit Care Med</jtl>
+        <issn type="Electronic">1530-0293</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="07" day="01">2021 Jul 01</dt>
+        <vid>49</vid>
+        <iid>7</iid>
+        <place>United States</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">34135273</ui>
+        <ui type="doi">10.1097/CCM.0000000000005001</ui>
+        <pages>1007-1014</pages>
+        <formats />
+        <tig>
+          <atl>Technology and Disasters: The Evolution of the National Emergency Tele-Critical Care Network.</atl>
+        </tig>
+        <aug>
+          <au>Pamplin JC</au>
+          <au>Scott BK</au>
+          <au>Quinn MT</au>
+          <au>Little JR</au>
+          <au>Goede MR</au>
+          <au>Pappas PA</au>
+          <au>Jolly BT</au>
+          <au>Hipp SJ</au>
+          <au>Colombo CJ</au>
+          <au>Davis KL</au>
+        </aug>
+        <sug>
+          <subj type="geographic">United States</subj>
+          <subj type="major">COVID-19 therapy</subj>
+          <subj type="major">Critical Care</subj>
+          <subj type="major">Pandemics</subj>
+          <subj type="major">Telemedicine organization &amp; administration</subj>
+          <subj type="minor">Biomedical Technology</subj>
+          <subj type="minor">Disaster Planning</subj>
+          <subj type="minor">Disasters</subj>
+          <subj type="minor">Humans</subj>
+          <subj type="minor">Military Personnel</subj>
+          <subj type="minor">Patient Care Team organization &amp; administration</subj>
+          <subj type="minor">Public-Private Sector Partnerships organization &amp; administration</subj>
+          <subj type="minor">Referral and Consultation</subj>
+          <subj type="minor">SARS-CoV-2</subj>
+          <subj type="minor">United States</subj>
+          <subj type="minor">United States Dept. of Health and Human Services organization &amp; administration</subj>
+        </sug>
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=34135273&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="3">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="33499446">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Military medicine</jtl>
+        <jtl>Mil Med</jtl>
+        <issn type="Electronic">1930-613X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="01" day="25">2021 Jan 25</dt>
+        <vid>186</vid>
+        <iid>Suppl 1</iid>
+        <place>England</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">33499446</ui>
+        <ui type="doi">10.1093/milmed/usaa298</ui>
+        <pages>253-260</pages>
+        <formats />
+        <tig>
+          <atl>The Trifecta of Tele-Critical Care: Intrahospital, Operational, and Mass Casualty Applications.</atl>
+        </tig>
+        <aug>
+          <au>Ieronimakis KM</au>
+          <au>Colombo CJ</au>
+          <au>Valovich J</au>
+          <au>Griffith M</au>
+          <au>Davis KL</au>
+          <au>Pamplin JC</au>
+        </aug>
+        <sug>
+          <subj type="major">Critical Care</subj>
+          <subj type="major">Mass Casualty Incidents</subj>
+          <subj type="minor">Humans</subj>
+          <subj type="minor">Intensive Care Units</subj>
+          <subj type="minor">Monitoring, Physiologic</subj>
+          <subj type="minor">Telemedicine</subj>
+        </sug>
+        <ab>Tele-critical care (TCC) has improved outcomes in civilian hospitals and military treatment facilities (MTFs). Tele-critical care has the potential to concurrently support MTFs and operational environments and could increase capacity and capability during mass casualty events. TCC services distributed across multiple hub sites may flexibly adapt to rapid changes in patient volume and complexity to fully optimize resources. Given the highly variable census in MTF intensive care units (ICU), the proposed TCC solution offers system resiliency and redundancy for garrison, operational, and mass casualty needs, while also maximizing return on investment for the Defense Health Agency.</ab>
+        <ab>The investigators piloted simultaneous TCC support to the MTF during three field exercises: (1) TCC concurrently monitored the ICU during a remote mass casualty exercise: the TCC physician monitored a high-risk ICU patient while the nurse monitored 24 simulated field casualties; (2) TCC concurrently monitored the garrison ICU and a remote military medical field exercise: the physician provided tele-mentoring during prolonged field care for a simulated casualty, and the nurse provided hospital ICU TCC; (3) the TCC nurse simultaneously monitored the ICU while providing reach-back support to field hospital nurses training in a simulation scenario.</ab>
+        <ab>TCC proved feasible during multiple exercises with concurrent tele-mentoring to different care environments including physician and nurse alternating operational and hospital support roles, and an ICU nurse managing both simultaneously. ICU staff noted enhanced quality and safety of bedside care. Field exercise participants indicated TCC expanded multipatient monitoring during mass casualties and enhanced novice caregiver procedural capability and scope of patient complexity.</ab>
+        <ab>Tele-critical care can extend critical care services to anywhere at any time in support of garrison medicine, operational medicine, and mass casualty settings. An interoperable, flexibly staffed, and rapidly expandable TCC network must be further developed given the potential for large casualty volumes to overwhelm a single TCC provider with multiple duties. Lessons learned from development of this capability should have applicability for managing military and civilian mass casualty events.</ab>
+        <pubtype>Journal Article</pubtype>
+        <doctype>Research Support, U.S. Gov't, Non-P.H.S.</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=33499446&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="4">
+  <header shortDbName="edselp" longDbName="ScienceDirect" uiTerm="S1386505620302252">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>International Journal of Medical Informatics</jtl>
+        <issn type="electronic">13865056</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="07" day="01">July 2020</dt>
+        <vid>139</vid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.ijmedinf.2020.104165</ui>
+        <tig>
+          <atl>Evaluation of clinician interaction with alerts to enhance performance of the tele-critical care medical environment</atl>
+        </tig>
+        <aug>
+          <au>Kaur, Dhamanpreet</au>
+          <au>Panos, Ralph J.</au>
+          <au>Badawi, Omar</au>
+          <au>Bapat, Sanika S.</au>
+          <au>Wang, Li</au>
+          <au>Gupta, Amar</au>
+        </aug>
+        <sug>
+          <subj type="unclass">Tele-ICU</subj>
+          <subj type="unclass">Clinician workload</subj>
+          <subj type="unclass">Alarm fatigue</subj>
+          <subj type="unclass">Alerts</subj>
+          <subj type="unclass">Clinical information systems</subj>
+        </sug>
+        <ab>Highlights •Alarm fatigue is a well-known issue impeding bedside patient care in the ICU.•High frequencies of clinically irrelevant alarms aggravate alarm fatigue.•Tele-Critical Care systems show frequent, repetitive, and potentially unnecessary alerts.•Frequency and clinician choice of reactivation time vary by alert type.•Customizing limit alert settings could reduce cognitive workload, and thus alert fatigue.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>fla</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edselp&amp;AN=S1386505620302252&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="5">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="34155070">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>BMJ open</jtl>
+        <jtl>BMJ Open</jtl>
+        <issn type="Electronic">2044-6055</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="06" day="21">2021 Jun 21</dt>
+        <vid>11</vid>
+        <iid>6</iid>
+        <place>England</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">34155070</ui>
+        <ui type="doi">10.1136/bmjopen-2020-042302</ui>
+        <pages>e042302</pages>
+        <formats />
+        <tig>
+          <atl>TELE-critical Care verSus usual Care On ICU PErformance (TELESCOPE): protocol for a cluster-randomised clinical trial on adult general ICUs in Brazil.</atl>
+        </tig>
+        <aug>
+          <au>Noritomi DT</au>
+          <au>Ranzani OT</au>
+          <au>Ferraz LJR</au>
+          <au>Dos Santos MC</au>
+          <au>Cordioli E</au>
+          <au>Albaladejo R</au>
+          <au>Serpa Neto A</au>
+          <au>Correa TD</au>
+          <au>Berwanger O</au>
+          <au>de Morais LC</au>
+          <au>Schettino G</au>
+          <au>Cavalcanti AB</au>
+          <au>Rosa RG</au>
+          <au>Biondi RS</au>
+          <au>Salluh JI</au>
+          <au>Azevedo LCP</au>
+          <au>Pereira AJ</au>
+        </aug>
+        <sug>
+          <subj type="geographic">Brazil</subj>
+          <subj type="major">COVID-19</subj>
+          <subj type="major">Telescopes</subj>
+          <subj type="minor">Adult</subj>
+          <subj type="minor">Brazil</subj>
+          <subj type="minor">Critical Care</subj>
+          <subj type="minor">Humans</subj>
+          <subj type="minor">Intensive Care Units</subj>
+          <subj type="minor">Multicenter Studies as Topic</subj>
+          <subj type="minor">Randomized Controlled Trials as Topic</subj>
+          <subj type="age">Adult: 19-44 years</subj>
+          <subj type="age">All Adult: 19+ years</subj>
+        </sug>
+        <ab>Daily multidisciplinary rounds (DMRs) consist of systematic patient-centred discussions aiming to establish joint therapeutic goals for the next 24 hours of intensive care unit (ICU) care. The aim of the present study protocol is to evaluate whether an intervention consisting of guided DMRs, supported by a remote specialist and audit/feedback on care performance will reduce ICU length of stay compared with a control group.</ab>
+        <ab>A multicentre, controlled, cluster-randomised superiority trial including 30 ICUs in Brazil (15 intervention and 15 control), from August 2019 to June 2021. In a parallel assignment, ICUs are randomised to a complex-intervention composed by daily rounds carried out through Tele-ICU by a remote ICU physician; development of local quality indicators dashboards coupled with monthly meetings with local leadership; and dissemination of evidence-based clinical protocols versus usual care. Primary outcome is ICU length of stay. Secondary outcomes include classification of the unit according to the profiles defined by the standardised resource use and the standardised mortality rate, hospital mortality, incidence of healthcare-associated infections, ventilator-free days at 28 days, patient-days receiving oral or enteral feeding, patient-days under light sedation or alert and calm, rate of patients under normoxaemia. All adult patients admitted after the beginning of the study in each participant ICU will be enrolled. Inclusion criteria (clusters): public Brazilian ICUs with a minimum of 8 ICU beds interested/committed to participating in the study. Exclusion criteria (clusters): units with fully established DMRs by an intensivist, specialised or step-down units.</ab>
+        <ab>The study protocol was approved by the institutional review board (IRB) of the coordinator centre, and by IRBs of each enrolled hospital/ICU. Statistical analysis protocol is being prepared for submission before the end of patient's enrolment. Results will be disseminated through conferences, peer-reviewed journals and to each participating unit.</ab>
+        <ab>NCT03920501; Pre-results.</ab>
+        <pubtype>Journal Article</pubtype>
+        <doctype>Clinical Trial Protocol</doctype>
+        <doctype>Research Support, Non-U.S. Gov't</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=34155070&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="6">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="151699300">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Journal of the American Medical Informatics Association</jtl>
+        <issn>10675027</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="08" day="01">Aug2021</dt>
+        <vid>28</vid>
+        <iid>8</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/jamia/ocab072</ui>
+        <ui type="pmid">NLM34100942</ui>
+        <ppf>1791</ppf>
+        <ppct>5</ppct>
+        <formats />
+        <tig>
+          <atl>Association between limiting the number of open records in a tele-critical care setting and retract-reorder errors.</atl>
+        </tig>
+        <aug>
+          <au>Udeh, Chiedozie</au>
+          <au>Canfield, Christina</au>
+          <au>Briskin, Isaac</au>
+          <au>Hamilton, Aaron C</au>
+          <affil>Department of Intensive Care and Resuscitation, Anesthesiology Institute, Cleveland Clinic , Cleveland, Ohio, USA</affil>
+        </aug>
+        <sug />
+        <ab>Background: Wrong patient selection errors may be tracked by retract-reorder (RAR) events. The aim of this quality improvement study was to assess the impact of reducing the number of concurrently open electronic health records from 4 to 2 on RAR errors generated by a tele-critical care service.Methods: The study encompassed 32 months before and 21 months after restriction. Chi-Square test of proportions and T statistical process control chart for rare events were used.Results: There were 156 318 orders with 57 RAR errors (36.5/100 000 orders) before restriction, and 122 587 orders with 34 errors (27.7/100 000 orders) after. Rates were not statistically different (P = .20), but analysis was underpowered. When plotted on a T control chart, random variation was detected between RAR errors.Conclusion: We found no significant difference in RAR errors in the tele-critical care setting after open record limitation. Other strategies should be studied to reduce wrong patient selection errors.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>journal article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=151699300&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="7">
+  <header shortDbName="edsdoj" longDbName="Directory of Open Access Journals" uiTerm="edsdoj.8c759aa8b741475ba2b92b25c5dbe55e">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>BMJ Open</jtl>
+        <issn type="print">20446055</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="06" day="01"></dt>
+        <vid>11</vid>
+        <iid>6</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1136/bmjopen-2020-042302</ui>
+        <tig>
+          <atl>TELE-critical Care verSus usual Care On ICU PErformance (TELESCOPE): protocol for a cluster-randomised clinical trial on adult general ICUs in Brazil</atl>
+        </tig>
+        <aug>
+          <au>Regis Goulart Rosa</au>
+          <au>Luciano Cesar Pontes Azevedo</au>
+          <au>Adriano José Pereira</au>
+          <au>Otavio Berwanger</au>
+          <au>Ary Serpa Neto</au>
+          <au>Otavio T Ranzani</au>
+          <au>Alexandre Biasi Cavalcanti</au>
+          <au>Thiago D Correa</au>
+          <au>Danilo Teixeira Noritomi</au>
+          <au>Leonardo Jose Rolim Ferraz</au>
+          <au>Maura C dos Santos</au>
+          <au>Eduardo Cordioli</au>
+          <au>Renata Albaladejo</au>
+          <au>Lubia Caus de Morais</au>
+          <au>Guilherme Schettino</au>
+          <au>Rodrigo Santos Biondi</au>
+          <au>Jorge IF Salluh</au>
+          <au>Otavio Tavares Ranzani</au>
+          <au>Maura Santos</au>
+          <au>Fernando Gatti</au>
+          <au>Jorge Salluh</au>
+          <au>Leonardo JR Ferraz</au>
+          <au>Lúbia Caus</au>
+          <au>Luciano Azevedo</au>
+          <au>Maura Cristina Santos</au>
+          <au>Rodrigo Biondi</au>
+          <au>Thiago Domingos Correa</au>
+        </aug>
+        <sug>
+          <subj type="unclass">Medicine</subj>
+        </sug>
+        <ab>Introduction Daily multidisciplinary rounds (DMRs) consist of systematic patient-centred discussions aiming to establish joint therapeutic goals for the next 24 hours of intensive care unit (ICU) care. The aim of the present study protocol is to evaluate whether an intervention consisting of guided DMRs, supported by a remote specialist and audit/feedback on care performance will reduce ICU length of stay compared with a control group.Methods and analysis A multicentre, controlled, cluster-randomised superiority trial including 30 ICUs in Brazil (15 intervention and 15 control), from August 2019 to June 2021. In a parallel assignment, ICUs are randomised to a complex-intervention composed by daily rounds carried out through Tele-ICU by a remote ICU physician; development of local quality indicators dashboards coupled with monthly meetings with local leadership; and dissemination of evidence-based clinical protocols versus usual care. Primary outcome is ICU length of stay. Secondary outcomes include classification of the unit according to the profiles defined by the standardised resource use and the standardised mortality rate, hospital mortality, incidence of healthcare-associated infections, ventilator-free days at 28 days, patient-days receiving oral or enteral feeding, patient-days under light sedation or alert and calm, rate of patients under normoxaemia. All adult patients admitted after the beginning of the study in each participant ICU will be enrolled. Inclusion criteria (clusters): public Brazilian ICUs with a minimum of 8 ICU beds interested/committed to participating in the study. Exclusion criteria (clusters): units with fully established DMRs by an intensivist, specialised or step-down units.Ethics and dissemination The study protocol was approved by the institutional review board (IRB) of the coordinator centre, and by IRBs of each enrolled hospital/ICU. Statistical analysis protocol is being prepared for submission before the end of patient’s enrolment. Results will be disseminated through conferences, peer-reviewed journals and to each participating unit.Trial registration number NCT03920501; Pre-results.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsdoj&amp;AN=edsdoj.8c759aa8b741475ba2b92b25c5dbe55e&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="8">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="133352794">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Military Medicine</jtl>
+        <issn>00264075</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2018" month="11" day="01">Nov/Dec2018</dt>
+        <vid>183</vid>
+        <iid>11/12</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/milmed/usy051</ui>
+        <ui type="pmid">NLM29635539</ui>
+        <ppf>e494</ppf>
+        <ppct>5</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>The Initial Impact of Tele-Critical Care on the Surgical Services of a Community Military Hospital.</atl>
+        </tig>
+        <aug>
+          <au>Gent, Jan-Michael Van</au>
+          <au>Davis, Konrad L</au>
+          <au>Henry, Nichole</au>
+          <au>Zander, Ashley L</au>
+          <au>Kuettel, Matthew A</au>
+          <au>Edson, Theodore</au>
+          <au>Nelson, Thomas J</au>
+          <au>Tadlock, Matthew D</au>
+          <au>Van Gent, Jan-Michael</au>
+          <affil>Department of Surgery, Naval Medical Center San Diego, 34800 Bob Wilson Drive, San Diego, CA</affil>
+        </aug>
+        <sug>
+          <subj type="major">Critical Care Methods</subj>
+          <subj type="major">Health Facility Departments Standards</subj>
+          <subj type="major">Telemedicine Methods</subj>
+          <subj type="minor">Telemedicine Trends</subj>
+          <subj type="minor">Critical Care Trends</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">Quality of Health Care Statistics and Numerical Data</subj>
+          <subj type="minor">Apache</subj>
+          <subj type="minor">Quality of Health Care Standards</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Health Facility Departments Trends</subj>
+          <subj type="minor">Hospitals, Military Administration</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Hospitals, Military Statistics and Numerical Data</subj>
+          <subj type="minor">California</subj>
+          <subj type="minor">Human</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>Introduction: Mortality is reduced in hospitals staffed with intensivists, however, many smaller military hospitals lack intensivist support. Naval Hospital Camp Pendleton (NHCP) is a Military Treatment Facility (MTF) that operates a 6-bed Intensive Care Unit (ICU) north of its referral center, Naval Medical Center San Diego (NMCSD). To address a gap in NHCP on-site intensivist coverage, a comprehensive Tele-Critical Care (TCC) support system was established between NHCP and NMCSD. To examine the initial impact of telemedicine on surgical ICU patients, we compare NHCP surgical ICU admissions before and after TCC implementation.Materials and methods: Patient care by remote intensivist was achieved utilizing video teleconferencing technology, and remote access to electronic medical records. Standardization was promoted by adopting protocols and mandatory intensivist involvement in all ICU admissions. Surgical ICU admissions prior to TCC implementation (pre-TCC) were compared to those following TCC implementation (post-TCC).Results: Of 828 ICU admissions, 21% were surgical. TCC provided coverage during 35% of the intervention period. Comparing pre-TCC and post-TCC periods, there was a significant increase in the percentage of surgical ICU admissions [15.3 % vs 24.6%, p = 0.01] and the average monthly APACHE II score [4.1vs 6.5, p = 0.03]. The total number of surgical admissions per month also increased [3.9 vs 6.3, p = 0.009]. No adverse outcomes were identified.Conclusion: Implementation of TCC was associated with an increase in the scope and complexity of surgical admissions with no adverse outcomes. Surgeons were able to safely expand the surgical services offered requiring perioperative ICU care to patients who previously may have been transferred. Caring for these types of patients not only maintains the operational readiness of deployable caregivers but patient experience is also enhanced by minimizing transfers away from family. Further exploration of TCC on surgical case volume and complexity is warranted.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>pictorial</doctype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>journal article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=133352794&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="9">
+  <header shortDbName="mnh" longDbName="MEDLINE with Full Text" uiTerm="31247104">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Military medicine</jtl>
+        <jtl>Mil Med</jtl>
+        <issn type="Electronic">1930-613X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="02" day="13">2020 Feb 13</dt>
+        <vid>185</vid>
+        <iid>1-2</iid>
+        <place>England</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">31247104</ui>
+        <ui type="doi">10.1093/milmed/usz147</ui>
+        <pages>e191-e196</pages>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Implementation of Tele-Critical Care at General Leonard Wood Army Community Hospital.</atl>
+        </tig>
+        <aug>
+          <au>McLeroy RD</au>
+          <au>Ingersoll J</au>
+          <au>Nielsen P</au>
+          <au>Pamplin J</au>
+        </aug>
+        <sug>
+          <subj type="major">Hospitals, Community</subj>
+          <subj type="minor">Critical Care</subj>
+          <subj type="minor">Humans</subj>
+          <subj type="minor">Intensive Care Units</subj>
+          <subj type="minor">Telemedicine</subj>
+          <subj type="minor">Wood</subj>
+        </sug>
+        <ab>Tele-Intensive Care Unit (tele-ICU) is care provided to critically ill patients by remote clinicians using audio, and video communications and network resources to access real-time patient information from physiologic monitors and the electronic medical record. Tele-ICU has been demonstrated in civilian healthcare to reduce mortality, improve care quality and safety, decrease intensive care unit (ICU) length of stay (LOS) and ventilator days, and save money. General Leonard Wood Army Community Hospital (GLWACH) is a small medical treatment facility with limited resources with respect to subspecialists and ancillary services.</ab>
+        <ab>In 2012, GLWACH identified the lack of board-certified critical care physicians and limited baseline critical care capabilities as gaps that reduced surgical opportunities, challenged critical skill sustainment, exposed potential patient safety issues, and resulted in costly patient transfers to network hospitals. To address these gaps, GLWACH partnered with the Baptist Health Tele-ICU Service, located in Little Rock, AR, to provide Tele-ICU services to its four-bed intensive care unit. Video Teleconsultation (VTC) equipment was installed in the ICU as was a vendor specific solution for accessing real-time patient vital signs and an "emergency" button. The emergency button functioned by turning on the VTC equipment and calling the Tele-ICU center in Little Rock immediately when pushed. To assess impact, hospital and ICU volume, acuity, case mix index, purchased care costs were monitored before and after implementation of the system. Additionally, a Safety Attitudes Questionnaire (SAQ) was administered before and after implementation.</ab>
+        <ab>The implementation of the tele-ICU program at GLWACH increased hospital and ICU patient volume, surgical patient volume, and patient complexity. Purchased care costs declined by 30% in the year following implementation and return on investment was $233,311 (19%). All measurements of the SAQ improved following implementation.</ab>
+        <ab>These findings support the implementation of tele-ICU in the MHS as a cost-effective method to sustain readiness amongst critical care clinicians and improve safety culture in MHS hospitals.</ab>
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=mnh&amp;AN=31247104&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="10">
+  <header shortDbName="mnh" longDbName="MEDLINE with Full Text" uiTerm="29635539">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Military medicine</jtl>
+        <jtl>Mil Med</jtl>
+        <issn type="Electronic">1930-613X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2018" month="11" day="01">2018 Nov 01</dt>
+        <vid>183</vid>
+        <iid>11-12</iid>
+        <place>England</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">29635539</ui>
+        <ui type="doi">10.1093/milmed/usy051</ui>
+        <pages>e494-e499</pages>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>The Initial Impact of Tele-Critical Care on the Surgical Services of a Community Military Hospital.</atl>
+        </tig>
+        <aug>
+          <au>Van Gent JM</au>
+          <au>Davis KL</au>
+          <au>Henry N</au>
+          <au>Zander AL</au>
+          <au>Kuettel MA</au>
+          <au>Edson T</au>
+          <au>Nelson TJ</au>
+          <au>Tadlock MD</au>
+        </aug>
+        <sug>
+          <subj type="geographic">California</subj>
+          <subj type="major">Critical Care methods</subj>
+          <subj type="major">Surgery Department, Hospital standards</subj>
+          <subj type="major">Telemedicine methods</subj>
+          <subj type="minor">APACHE</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">California</subj>
+          <subj type="minor">Critical Care trends</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Hospitals, Military organization &amp; administration</subj>
+          <subj type="minor">Hospitals, Military statistics &amp; numerical data</subj>
+          <subj type="minor">Humans</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Middle Aged</subj>
+          <subj type="minor">Quality of Health Care standards</subj>
+          <subj type="minor">Quality of Health Care statistics &amp; numerical data</subj>
+          <subj type="minor">Surgery Department, Hospital trends</subj>
+          <subj type="minor">Telemedicine trends</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">All Adult: 19+ years</subj>
+          <subj type="gender">Female</subj>
+          <subj type="gender">Male</subj>
+        </sug>
+        <ab>Mortality is reduced in hospitals staffed with intensivists, however, many smaller military hospitals lack intensivist support. Naval Hospital Camp Pendleton (NHCP) is a Military Treatment Facility (MTF) that operates a 6-bed Intensive Care Unit (ICU) north of its referral center, Naval Medical Center San Diego (NMCSD). To address a gap in NHCP on-site intensivist coverage, a comprehensive Tele-Critical Care (TCC) support system was established between NHCP and NMCSD. To examine the initial impact of telemedicine on surgical ICU patients, we compare NHCP surgical ICU admissions before and after TCC implementation.</ab>
+        <ab>Patient care by remote intensivist was achieved utilizing video teleconferencing technology, and remote access to electronic medical records. Standardization was promoted by adopting protocols and mandatory intensivist involvement in all ICU admissions. Surgical ICU admissions prior to TCC implementation (pre-TCC) were compared to those following TCC implementation (post-TCC).</ab>
+        <ab>Of 828 ICU admissions, 21% were surgical. TCC provided coverage during 35% of the intervention period. Comparing pre-TCC and post-TCC periods, there was a significant increase in the percentage of surgical ICU admissions [15.3 % vs 24.6%, p = 0.01] and the average monthly APACHE II score [4.1vs 6.5, p = 0.03]. The total number of surgical admissions per month also increased [3.9 vs 6.3, p = 0.009]. No adverse outcomes were identified.</ab>
+        <ab>Implementation of TCC was associated with an increase in the scope and complexity of surgical admissions with no adverse outcomes. Surgeons were able to safely expand the surgical services offered requiring perioperative ICU care to patients who previously may have been transferred. Caring for these types of patients not only maintains the operational readiness of deployable caregivers but patient experience is also enhanced by minimizing transfers away from family. Further exploration of TCC on surgical case volume and complexity is warranted.</ab>
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=mnh&amp;AN=29635539&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="11">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="122879601">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Military Medicine</jtl>
+        <issn>00264075</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2017" month="05" day="01">May2017</dt>
+        <vid>182</vid>
+        <iid>5</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.7205/MILMED-D-16-00277</ui>
+        <ui type="pmid">NLM29087914</ui>
+        <ppf>e1702</ppf>
+        <ppct>6</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Successful Implementation of Low-Cost Tele-Critical Care Solution by the U.S. Navy: Initial Experience and Recommendations.</atl>
+        </tig>
+        <aug>
+          <au>Perry-Moseanko, Alexandra</au>
+          <au>Davis, Konrad</au>
+          <au>Tadlock, Matthew D.</au>
+          <au>Henry, Nichole</au>
+          <au>Pamplin, Jeremy</au>
+          <affil>Department of Pulmonary and Critical Care Medicine, Naval Medical Center San Diego, 34800 Bob Wilson Drive, San Diego, CA 92134.</affil>
+        </aug>
+        <sug>
+          <subj type="major">Program Development Methods</subj>
+          <subj type="major">Intensive Care Units Statistics and Numerical Data</subj>
+          <subj type="major">Health Care Costs Statistics and Numerical Data</subj>
+          <subj type="major">Telemedicine Standards</subj>
+          <subj type="minor">Hospitals, Community Economics</subj>
+          <subj type="minor">Intensive Care Units Economics</subj>
+          <subj type="minor">Military Personnel Statistics and Numerical Data</subj>
+          <subj type="minor">Telemedicine Economics</subj>
+          <subj type="minor">Personnel Staffing and Scheduling Economics</subj>
+          <subj type="minor">Hospitals, Community Statistics and Numerical Data</subj>
+          <subj type="minor">Program Development Economics</subj>
+          <subj type="minor">Telemedicine Methods</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Apache</subj>
+          <subj type="minor">Clinical Assessment Tools</subj>
+        </sug>
+        <ab>Intensivist physician involvement has been shown to improve outcomes for critically ill patients. Unfortunately, the number of Intensivists nationally is unable to meet the current demand. Similar to the civilian community, the Navy critical care workforce is limited by available resources. Tele-critical care (TCC) has recently been shown to improve outcomes for critically ill patients, and has been suggested as a suitable means of extending Intensivist expertise. Naval Hospital Camp Pendleton (NHCP) is a small community hospital located 41 miles north of Naval Medical Center San Diego (NMCSD). NHCP operates a relatively low-volume six-bed medical-surgical intensive care unit. The Intensivist staffing of NHCP has been variable, ranging from 3 Intensivists to periods of time with no on-site Intensivists. This intermittent staffing has led to (1) network disengagements, (2) unnecessary transfers to NMCSD, and (3) adverse outcomes for critically ill patients cared for at NHCP without Intensivist involvement. In early 2014, NMCSD established a TCC system to address this staffing challenge. Through the TCC program, the tele-Intensivist at NMCSD provides 24/7 coverage for patients located at NHCP using low-cost, off-the-shelf, synchronous high-definition video-teleconferencing equipment, and remote access to electronic medical record, imaging studies, and laboratory data. The tele-Intensivist also participates in multidisciplinary teaching rounds with the NHCP house staff. Several medical protocols have also been developed and implemented as part of the TCC program. When comparing the 12 months before implementation with the 19 months following implementation, we found (1) a trend toward increase volume of admissions per month (22.9 ± 7.5 vs. 27 ± 6.6, p = 0.11), (2) a decrease in total number of avoidable disengagements (12 ± 0.9 vs. 0, p = 0.0008), (3) increased maximum Acute Physiology and Chronic Health Evaluation II score per month (17.22 ± 2.2 vs. 21.8 ± 5.5, p = 0.018), and no adverse outcomes related to the TCC system. This reduction in disengagements correlated with a savings in out-of-network expenditures of $1.3 million over the 19 months of program operation. There was no change in either the patients' length of stay or the number of patients transferred to NMCSD. TCC improves readiness by increasing the volume and acuity of critical care patient encounters at the spoke hospital. TCC can also enhance Graduate Medical Education by providing Intensivist teaching, and supports the concept of "Regionalized Care" by improving the integration of care between hospitals. The quality of care is improved through the more rapid transfer of patients who require a higher level of care, standardization of care through protocols, and the Intensivist expertise that is applied to patients kept at the smaller facility. The value of care increased through both enhanced quality, and the cost savings associated with decreasing network disengagements. Leveraging new technology to provide remote care for our sickest beneficiaries has been proven a successful solution to the dilemma of limited Intensivist staffing. Leadership should consider TCC as a tool to extend Intensivist expertise to all of our small hospitals, and should explore the application of synchronous telehealth within the operational environment where similar staffing challenges exist.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>journal article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=122879601&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="12">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="142766663">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Critical Care Medicine</jtl>
+        <issn>00903493</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="04" day="01">Apr2020</dt>
+        <vid>48</vid>
+        <iid>4</iid>
+        <place>Baltimore, Maryland</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/CCM.0000000000004190</ui>
+        <ui type="pmid">NLM32205602</ui>
+        <ppf>553</ppf>
+        <ppct>9</ppct>
+        <formats />
+        <tig>
+          <atl>Tele-Critical Care: An Update From the Society of Critical Care Medicine Tele-ICU Committee.</atl>
+        </tig>
+        <aug>
+          <au>Subramanian, Sanjay</au>
+          <au>Pamplin, Jeremy C.</au>
+          <au>Hravnak, Marilyn</au>
+          <au>Hielsberg, Christina</au>
+          <au>Riker, Richard</au>
+          <au>Rincon, Fred</au>
+          <au>Laudanski, Krzysztof</au>
+          <au>Adzhigirey, Lana A.</au>
+          <au>Moughrabieh, M. Anas</au>
+          <au>Winterbottom, Fiona A.</au>
+          <au>Herasevich, Vitaly</au>
+          <affil>Division of Critical Care Medicine, Department Anesthesiology, Washington University in St. Louis, St. Louis, MO.</affil>
+        </aug>
+        <sug>
+          <subj type="major">Intensive Care Units Administration</subj>
+          <subj type="major">Decision Support Systems, Clinical Administration</subj>
+          <subj type="major">Telemedicine Administration</subj>
+          <subj type="major">Critical Care</subj>
+          <subj type="minor">Remote Consultation Administration</subj>
+          <subj type="minor">United States</subj>
+          <subj type="minor">Attitude of Health Personnel</subj>
+          <subj type="minor">Peer Review</subj>
+          <subj type="minor">Critical Care Family Needs Inventory</subj>
+        </sug>
+        <ab>Objectives: In 2014, the Tele-ICU Committee of the Society of Critical Care Medicine published an article regarding the state of ICU telemedicine, one better defined today as tele-critical care. Given the rapid evolution in the field, the authors now provide an updated review.Data Sources and Study Selection: We searched PubMed and OVID for peer-reviewed literature published between 2010 and 2018 related to significant developments in tele-critical care, including its prevalence, function, activity, and technologies. Search terms included electronic ICU, tele-ICU, critical care telemedicine, and ICU telemedicine with appropriate descriptors relevant to each sub-section. Additionally, information from surveys done by the Society of Critical Care Medicine was included given the relevance to the discussion and was referenced accordingly.Data Extraction and Data Synthesis: Tele-critical care continues to evolve in multiple domains, including organizational structure, technologies, expanded-use case scenarios, and novel applications. Insights have been gained in economic impact and human and organizational factors affecting tele-critical care delivery. Legislation and credentialing continue to significantly influence the pace of tele-critical care growth and adoption.Conclusions: Tele-critical care is an established mechanism to leverage critical care expertise to ICUs and beyond, but systematic research comparing different models, approaches, and technologies is still needed.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>pictorial</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>journal article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=142766663&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="13">
+  <header shortDbName="edselc" longDbName="Scopus®" uiTerm="edselc.2-52.0-85082380492">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Critical Care Medicine</jtl>
+        <issn>15300293</issn>
+        <issn>00903493</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="01" day="01">2020</dt>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/CCM.0000000000004276</ui>
+        <pages>610 - 611</pages>
+        <tig>
+          <atl>The Evolution of Tele-ICU to Tele-Critical Care∗</atl>
+        </tig>
+        <aug>
+          <au>Lilly, C.M.</au>
+          <au>Greenberg, B.</au>
+        </aug>
+        <su>case volume</su>
+        <su>logistical center</su>
+        <su>processes of care</su>
+        <su>telemedicine</su>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edselc&amp;AN=edselc.2-52.0-85082380492&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="14">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="33819430">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Telemedicine journal and e-health : the official journal of the American Telemedicine Association</jtl>
+        <jtl>Telemed J E Health</jtl>
+        <issn type="Electronic">1556-3669</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="04" day="05">2021 Apr 05</dt>
+        <place>United States</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">33819430</ui>
+        <ui type="doi">10.1089/tmj.2020.0452</ui>
+        <formats />
+        <tig>
+          <atl>Beyond the Nuts and Bolts: Tele-Critical Care Patients, Workflows, and Activity Patterns.</atl>
+        </tig>
+        <aug>
+          <au>Canfield C</au>
+          <au>Perez-Protto S</au>
+          <au>Siuba M</au>
+          <au>Hata S</au>
+          <au>Udeh C</au>
+        </aug>
+        <sug />
+        <ab>            Background:          Tele-critical care (TCC) adoption has been slow since its emergence in the early 2000s. The COVID-19 pandemic has renewed interest in telemedicine and may spur expansion or development of new TCC programs. This narrative addresses the Cleveland Clinic TCC service, (eHospital) to promote exchange of ideas to continually optimize the practice for current and future users.             Methods:          A descriptive narrative methodology is used in this report.             Results:          Cleveland Clinic's eHospital was established in 2014 to support nighttime critical care across system hospitals. It encompasses a tiered system of two-way audiovisual communication, telemetry, software platform that integrates the electronic health record, and a proprietary risk stratification algorithm for targeted electronic surveillance. The TCC team includes intensivists, advanced care providers, and registered nurses. Three coverage models evolved depending on onsite clinician availability. More than 133,000 patients have been served by eHospital to date, and span the typical spectrum of critical illness. Along with universal monitoring, ∼18% of patients received active interventions, the most common of which are categorized. Patterns of activity, typical workflows, and adaptations of bedside best practices are also described. Bookending the work shift are sign outs focused on pending critical issues, unstable patients, and those who can be triaged out of the intensive care unit. In between, TCC teams round periodically and interact with bedside teams.             Conclusions:          TCC adoption has proceeded slowly. Some acceleration is anticipated in a post-COVID-19 pandemic world. Our experience highlights operational practices that can facilitate successful TCC practice.</ab>
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=33819430&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="15">
+  <header shortDbName="cat00016a" longDbName="IUCAT (library catalog)" uiTerm="inun.19218371">
+    <controlInfo>
+      <bkinfo>
+        <btl>Tele-Critical Care (TCC) in Our Challenging Healthcare Times / PESI, Inc.</btl>
+      </bkinfo>
+      <jinfo />
+      <pubinfo>
+        <dt year="2021" month="01" day="01"></dt>
+      </pubinfo>
+      <artinfo>
+        <tig>
+          <atl>Tele-Critical Care (TCC) in Our Challenging Healthcare Times.</atl>
+        </tig>
+        <pubtype>Video</pubtype>
+        <doctype>Videorecording</doctype>
+        <formats />
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cat00016a&amp;AN=inun.19218371&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="16">
+  <header shortDbName="edsovi" longDbName="Journals@OVID" uiTerm="edsovi.10.1097.CCM.0000000000004190">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Critical Care Medicine</jtl>
+        <issn type="print">00903493</issn>
+        <issn type="locals">edsovi</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="12" day="17"></dt>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/CCM.0000000000004190</ui>
+        <tig>
+          <atl>Tele-Critical Care: An Update From the Society of Critical Care Medicine Tele-ICU Committee</atl>
+        </tig>
+        <aug>
+          <au>Subramanian, Sanjay</au>
+          <au>Pamplin, Jeremy C.</au>
+          <au>Hravnak, Marilyn</au>
+          <au>Hielsberg, Christina</au>
+          <au>Riker, Richard</au>
+          <au>Rincon, Fred</au>
+          <au>Laudanski, Krzysztof</au>
+          <au>Adzhigirey, Lana A.</au>
+          <au>Moughrabieh, M. Anas</au>
+          <au>Winterbottom, Fiona A.</au>
+          <au>Herasevich, Vitaly</au>
+        </aug>
+        <ab>OBJECTIVES:: In 2014, the Tele-ICU Committee of the Society of Critical Care Medicine published an article regarding the state of ICU telemedicine, one better defined today as tele-critical care. Given the rapid evolution in the field, the authors now provide an updated review. DATA SOURCES AND STUDY SELECTION:: We searched PubMed and OVID for peer-reviewed literature published between 2010 and 2018 related to significant developments in tele-critical care, including its prevalence, function, activity, and technologies. Search terms included electronic ICU, tele-ICU, critical care telemedicine, and ICU telemedicine with appropriate descriptors relevant to each sub-section. Additionally, information from surveys done by the Society of Critical Care Medicine was included given the relevance to the discussion and was referenced accordingly. DATA EXTRACTION AND DATA SYNTHESIS:: Tele-critical care continues to evolve in multiple domains, including organizational structure, technologies, expanded-use case scenarios, and novel applications. Insights have been gained in economic impact and human and organizational factors affecting tele-critical care delivery. Legislation and credentialing continue to significantly influence the pace of tele-critical care growth and adoption. CONCLUSIONS:: Tele-critical care is an established mechanism to leverage critical care expertise to ICUs and beyond, but systematic research comparing different models, approaches, and technologies is still needed.</ab>
+        <pubtype>Academic Journal</pubtype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsovi&amp;AN=edsovi.10.1097.CCM.0000000000004190&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="17">
+  <header shortDbName="mnh" longDbName="MEDLINE with Full Text" uiTerm="29087914">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Military medicine</jtl>
+        <jtl>Mil Med</jtl>
+        <issn type="Electronic">1930-613X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2017" month="05" day="01">2017 May</dt>
+        <vid>182</vid>
+        <iid>5</iid>
+        <place>England</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">29087914</ui>
+        <ui type="doi">10.7205/MILMED-D-16-00277</ui>
+        <pages>e1702-e1707</pages>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Successful Implementation of Low-Cost Tele-Critical Care Solution by the U.S. Navy: Initial Experience and Recommendations.</atl>
+        </tig>
+        <aug>
+          <au>Davis K</au>
+          <au>Perry-Moseanko A</au>
+          <au>Tadlock MD</au>
+          <au>Henry N</au>
+          <au>Pamplin J</au>
+        </aug>
+        <sug>
+          <subj type="major">Health Care Costs statistics &amp; numerical data</subj>
+          <subj type="major">Intensive Care Units statistics &amp; numerical data</subj>
+          <subj type="major">Program Development methods</subj>
+          <subj type="major">Telemedicine standards</subj>
+          <subj type="minor">Hospitals, Community economics</subj>
+          <subj type="minor">Hospitals, Community statistics &amp; numerical data</subj>
+          <subj type="minor">Humans</subj>
+          <subj type="minor">Intensive Care Units economics</subj>
+          <subj type="minor">Military Personnel statistics &amp; numerical data</subj>
+          <subj type="minor">Personnel Staffing and Scheduling economics</subj>
+          <subj type="minor">Program Development economics</subj>
+          <subj type="minor">Telemedicine economics</subj>
+          <subj type="minor">Telemedicine methods</subj>
+        </sug>
+        <ab>Intensivist physician involvement has been shown to improve outcomes for critically ill patients. Unfortunately, the number of Intensivists nationally is unable to meet the current demand. Similar to the civilian community, the Navy critical care workforce is limited by available resources. Tele-critical care (TCC) has recently been shown to improve outcomes for critically ill patients, and has been suggested as a suitable means of extending Intensivist expertise. Naval Hospital Camp Pendleton (NHCP) is a small community hospital located 41 miles north of Naval Medical Center San Diego (NMCSD). NHCP operates a relatively low-volume six-bed medical-surgical intensive care unit. The Intensivist staffing of NHCP has been variable, ranging from 3 Intensivists to periods of time with no on-site Intensivists. This intermittent staffing has led to (1) network disengagements, (2) unnecessary transfers to NMCSD, and (3) adverse outcomes for critically ill patients cared for at NHCP without Intensivist involvement. In early 2014, NMCSD established a TCC system to address this staffing challenge. Through the TCC program, the tele-Intensivist at NMCSD provides 24/7 coverage for patients located at NHCP using low-cost, off-the-shelf, synchronous high-definition video-teleconferencing equipment, and remote access to electronic medical record, imaging studies, and laboratory data. The tele-Intensivist also participates in multidisciplinary teaching rounds with the NHCP house staff. Several medical protocols have also been developed and implemented as part of the TCC program. When comparing the 12 months before implementation with the 19 months following implementation, we found (1) a trend toward increase volume of admissions per month (22.9 ± 7.5 vs. 27 ± 6.6, p = 0.11), (2) a decrease in total number of avoidable disengagements (12 ± 0.9 vs. 0, p = 0.0008), (3) increased maximum Acute Physiology and Chronic Health Evaluation II score per month (17.22 ± 2.2 vs. 21.8 ± 5.5, p = 0.018), and no adverse outcomes related to the TCC system. This reduction in disengagements correlated with a savings in out-of-network expenditures of $1.3 million over the 19 months of program operation. There was no change in either the patients' length of stay or the number of patients transferred to NMCSD. TCC improves readiness by increasing the volume and acuity of critical care patient encounters at the spoke hospital. TCC can also enhance Graduate Medical Education by providing Intensivist teaching, and supports the concept of "Regionalized Care" by improving the integration of care between hospitals. The quality of care is improved through the more rapid transfer of patients who require a higher level of care, standardization of care through protocols, and the Intensivist expertise that is applied to patients kept at the smaller facility. The value of care increased through both enhanced quality, and the cost savings associated with decreasing network disengagements. Leveraging new technology to provide remote care for our sickest beneficiaries has been proven a successful solution to the dilemma of limited Intensivist staffing. Leadership should consider TCC as a tool to extend Intensivist expertise to all of our small hospitals, and should explore the application of synchronous telehealth within the operational environment where similar staffing challenges exist.</ab>
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=mnh&amp;AN=29087914&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="18">
+  <header shortDbName="edsovi" longDbName="Journals@OVID" uiTerm="edsovi.02107256.202007000.00002">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Critical Care Explorations</jtl>
+        <issn type="print">26398028</issn>
+        <issn type="locals">edsovi</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="07" day="01"></dt>
+        <vid>2</vid>
+        <iid>7</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/CCE.0000000000000167</ui>
+        <ppf>e0167</ppf>
+        <ppct>2</ppct>
+        <tig>
+          <atl>Leveraging Tele-Critical Care Capabilities for Clinical Trial Consent</atl>
+        </tig>
+        <aug>
+          <au>Ieronimakis, Kristina M.</au>
+          <au>Cain, Janell A.</au>
+          <au>Switzer, Michael S.</au>
+          <au>Odineal, David D.</au>
+          <au>Deacy, Thomas K.</au>
+          <au>Stein, Michael T. O.</au>
+          <au>Colombo, Rhonda E.</au>
+          <au>Colombo, Christopher J.</au>
+        </aug>
+        <ab>A severe coronavirus disease 2019 patient admitted to our institution for medical management was enrolled in a randomized placebo-controlled trial of an investigational therapeutic for coronavirus disease 2019. We leveraged existing video-telecommunication equipment to obtain informed consent. We found video-telecommunication use closely mirrored person-to-person contact for research consent by maintaining engagement and ensuring understanding. Video-telecommunication use facilitated clinical research while minimizing unnecessary exposure to coronavirus disease 2019 and conserving personal protective equipment. Prior to the coronavirus disease 2019 pandemic, research regulatory agencies were essentially silent on the matter of video-telecommunication consent. Regulatory guidance became available during the pandemic in response to increased isolation and social distancing practices. Virtual health and telemedicine use expanded greatly during the pandemic, and this increase will likely persist after the pandemic ends. We anticipate video-telecommunication adoption and implementation for research consent will also continue to grow after the coronavirus disease 2019 pandemic is over.</ab>
+        <pubtype>Academic Journal</pubtype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsovi&amp;AN=edsovi.02107256.202007000.00002&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="19">
+  <header shortDbName="edselp" longDbName="ScienceDirect" uiTerm="S0749070419300466">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Critical Care Clinics</jtl>
+        <issn type="electronic">07490704</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="10" day="01">October 2019</dt>
+        <vid>35</vid>
+        <iid>4</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.ccc.2019.06.007</ui>
+        <ppf>563</ppf>
+        <ppct>11</ppct>
+        <tig>
+          <atl>Augmenting Critical Care Capacity in a Disaster</atl>
+        </tig>
+        <aug>
+          <au>Seda, Gilbert</au>
+          <au>Parrish, John S.</au>
+        </aug>
+        <sug>
+          <subj type="unclass">Disaster response</subj>
+          <subj type="unclass">Surge capacity</subj>
+          <subj type="unclass">Augmentation</subj>
+          <subj type="unclass">Mass critical care</subj>
+          <subj type="unclass">Tele-critical care</subj>
+          <subj type="unclass">Virtual critical care</subj>
+        </sug>
+        <ab>A health care facility must develop a comprehensive disaster plan that has a provision for critical care services. Mass critical care requires surge capacity: augmentation of critical care services during a disaster. Surge capacity involves staff, supplies, space, and structure. Measures to increase critical care staff include recalling essential personnel, using noncritical care staff, and emergency credentialing of volunteers. Having an adequate supply chain and a cache of critical care supplies is essential. Virtual critical care or tele-critical care can augment critical care capacity by assisting with patient monitoring, specialized consultation, and in pandemics reduces staff exposure.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>rev</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edselp&amp;AN=S0749070419300466&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="20">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="140391550">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>South Carolina Nurse</jtl>
+        <issn>10467394</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="12" day="01">Dec2019-Jan/Feb2020</dt>
+        <vid>27</vid>
+        <iid>1</iid>
+        <place>Columbia, South Carolina</place>
+      </pubinfo>
+      <artinfo>
+        <ppf>17</ppf>
+        <ppct>0</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Tele-Critical Care: Nursing Perspective.</atl>
+        </tig>
+        <aug>
+          <au>Rayess, Claudine</au>
+        </aug>
+        <sug>
+          <subj type="minor">South Carolina Nurses Association</subj>
+          <subj type="minor">Telemedicine</subj>
+          <subj type="minor">Critical Care Nursing Methods</subj>
+          <subj type="minor">Information Resources</subj>
+        </sug>
+        <ab>The article offers a nursing perspective on tele-critical care. Topics discussed include benefits of telemedicine, definition given by the Society of Critical Medicine on telecritical care (TCC), and the issuance by the American Association of Critical Care of a consensus statement on TCC to project the elements of implementing, evaluating, and improving TCC nursing practice.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>brief item</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=140391550&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="21">
+  <header shortDbName="edselp" longDbName="ScienceDirect" uiTerm="S0883944120307516">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of Critical Care</jtl>
+        <issn type="electronic">08839441</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="02" day="01">February 2021</dt>
+        <vid>61</vid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.jcrc.2020.09.036</ui>
+        <ppf>241</ppf>
+        <ppct>6</ppct>
+        <tig>
+          <atl>Telemedicine in the intensive care unit: A vehicle to improve quality of care?</atl>
+        </tig>
+        <aug>
+          <au>Weiss, Björn</au>
+          <au>Paul, Nicolas</au>
+          <au>Balzer, Felix</au>
+          <au>Noritomi, Danilo T.</au>
+          <au>Spies, Claudia D.</au>
+        </aug>
+        <sug>
+          <subj type="unclass">Intensive care medicine</subj>
+          <subj type="unclass">Critical care</subj>
+          <subj type="unclass">Telemedicine</subj>
+          <subj type="unclass">Quality of care</subj>
+          <subj type="unclass">Virtual care</subj>
+          <subj type="unclass">Remote care</subj>
+        </sug>
+        <ab>The high demand for intensive care, which is predicted to further increase in the future, is contrasted by a shortage of trained intensivists and specialized nurses. Telemedicine has been heralded as a promising solution. Yet, there is considerable heterogeneity in tele-critical care when it comes to measurable effects. However, the focus has been on telemedical solutions substituting on-site intensivist functions, and outcome measures have primarily been mortality and length of stay. In a new model of telemedicine for the ICU, telemedicine could be used to increase adherence to best practice guidelines and indicators of process quality. Further, indicators of process quality, functional outcomes and quality of life measures should be incorporated in the evaluation of outcomes, as patients frequently value those higher than mere survival.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>rev</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edselp&amp;AN=S0883944120307516&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="22">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="151756103">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>JACCP:  Journal of the American College of Clinical Pharmacy</jtl>
+        <issn>25749870</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="08" day="01">Aug2021</dt>
+        <vid>4</vid>
+        <iid>8</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1002/jac5.1485</ui>
+        <ppf>988</ppf>
+        <ppct>6</ppct>
+        <lexile>1580</lexile>
+        <formats />
+        <tig>
+          <atl>Impact of first and second shift tele‐critical care pharmacy services and virtual rounds on interventions at Atrium Health Lincoln.</atl>
+        </tig>
+        <aug>
+          <au>Griffiths, Carrie L.</au>
+          <au>Kosmisky, Desiree E.</au>
+          <au>Everhart, Sonia S.</au>
+          <au>Marshall, Karen S.</au>
+          <au>Knight, Charlene P.</au>
+          <affil>Wingate University School of Pharmacy, Levine College of Health Sciences, Wingate North Carolina,, USA</affil>
+          <affil>Atrium Health, Virtual Critical Care, Mint Hill North Carolina,, USA</affil>
+          <affil>Atrium Health Lincoln, Lincolnton North Carolina,, USA</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">TELEMEDICINE</subj>
+          <subj type="unclass">PHARMACISTS</subj>
+          <subj type="unclass">CRITICAL care medicine</subj>
+        </sug>
+        <ab>Background: In 2015, Atrium Health (AH) established second shift pharmacy services in the tele‐critical care (TCC) setting to optimize medication therapy and serve as a drug information resource to facilities across the health care system. TCC pharmacy services expanded to the first shift in July 2017. In September 2017, the first shift pharmacist began participating in virtual multidisciplinary rounds 1 day per week, which increased to 3 days per week in October 2019 at AH Lincoln, a community hospital with a 10‐bed intensive care unit (ICU). Methods: This was a nonrandomized retrospective cohort study of adult ICU patients at AH Lincoln across two different time periods. The primary outcome was the number and type of pharmacy interventions made on rounding day(s) vs nonrounding days and first vs second shifts. Data are reported using descriptive statistics. Results: During time period 1, a total of 1174 patients were admitted to the ICU for a total of 2115 patient days, with an average length of stay (LOS) of 1.8 days (SD ± 1.8 days). During time period 2, a total of 812 patients were admitted to the ICU for a total of 1775 patient days with an average LOS of 2.2 days (SD ± 2.7 days). During time period 1, a total of 753 interventions (297 on first shift and 456 on second shift) were performed as compared to time period 2, which had 1276 interventions (816 on first shift and 460 on second shift). For both time periods, the most common intervention on the first shift was medication management (45%) vs glycemic control (36%) on the second shift. Conclusions: The addition of TCC pharmacy services to AH Lincoln has resulted in a positive impact on medication management, with the largest impact demonstrated through virtual rounding by the first shift TCC pharmacist.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=151756103&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="23">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="85916376">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>BMC Health Services Research</jtl>
+        <issn>14726963</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2013" month="03" day="01">2013</dt>
+        <vid>13</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1186/1472-6963-13-33</ui>
+        <ppf>1</ppf>
+        <ppct>11</ppct>
+        <formats>
+          <fmt type="PDF" size="259KB" />
+        </formats>
+        <tig>
+          <atl>A mixed methods descriptive investigation of readiness to change in rural hospitals participating in a tele-critical care intervention.</atl>
+        </tig>
+        <aug>
+          <au>Zapka, Jane</au>
+          <au>Simpson, Kit</au>
+          <au>Hiott, Lara</au>
+          <au>Langston, Laura</au>
+          <au>Fakhry, Samir</au>
+          <au>Ford, Dee</au>
+          <affil>Department of Public Health Sciences, Medical University of South Carolina (MUSC), 135 Cannon Street, Charleston, SC 29425, USA</affil>
+          <affil>Department of Health Leadership and Management, MUSC, 151 Rutledge Avenue, Charleston, SC 29425, USA</affil>
+          <affil>Division of Pulmonary, Critical Care, Allergy, and Sleep Medicine, MUSC, 96 Jonathan Lucas Street, Charleston, SC 29425, USA</affil>
+          <affil>Department of Surgery, MUSC, 96 Jonathan Lucas Street, Charleston, SC 29425, USA</affil>
+        </aug>
+        <sug>
+          <subj type="thes">TELEMEDICINE</subj>
+          <subj type="thes">COMMUNITY health services</subj>
+          <subj type="thes">RURAL health services</subj>
+          <subj type="thes">RURAL hospitals</subj>
+          <subj type="thes">MEDICAL education</subj>
+          <subj type="naics">Community health centres</subj>
+          <subj type="naics">All Other Outpatient Care Centers</subj>
+          <subj type="naics">Residential Mental Health and Substance Abuse Facilities</subj>
+          <subj type="naics">Other local, municipal and regional public administration</subj>
+          <subj type="naics">Other Individual and Family Services</subj>
+          <subj type="naics">Colleges, Universities, and Professional Schools</subj>
+          <subj type="naics">General Medical and Surgical Hospitals</subj>
+        </sug>
+        <ab>Background: Telemedicine technology can improve care to patients in rural and medically underserved communities yet adoption has been slow. The objective of this study was to study organizational readiness to participate in an academic-community hospital partnership including clinician education and telemedicine outreach focused on sepsis and trauma care in underserved, rural hospitals. Methods: This is a multi-method, observational case study. Participants included staff from 4 participating rural South Carolina hospitals. Using a readiness-for-change model, we evaluated 5 general domains and the related factors or topics of organizational context via key informant interviews (n=23) with hospital leadership and staff, compared these to data from hospital staff surveys (n=86) and triangulated data with investigators' observational reports. Survey items were grouped into 4 categories (based on content and fit with conceptual model) and scored, allowing regression analyses for inferential comparisons to assess factors related to receptivity toward the telemedicine innovation. Results: General agreement existed on the need for the intervention and feasibility of implementation. Previous experience with a telemedicine program appeared pivotal to enthusiasm. Perception of need, task demands and resource need explained nearly 50% of variation in receptivity. Little correlation emerged with hospital or ED leadership culture and support. However qualitative data and investigator observations about communication and differing support among disciplines and between staff and leadership could be important to actual implementation. Conclusions: A mixed methods approach proved useful in assessing organizational readiness for change in small organizations. Further research on variable operational definitions, potential influential factors, appropriate and feasible methods and valid instruments for such research are needed.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=85916376&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="24">
+  <header shortDbName="bwh" longDbName="Regional Business News" uiTerm="202109281222PR.NEWS.USPR.CG21876">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>PR Newswire US</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="09" day="28">09/28/2021</dt>
+      </pubinfo>
+      <artinfo>
+        <formats>
+          <fmt type="HTML Full Text" />
+        </formats>
+        <tig>
+          <atl>Omnicure powers U.S. Government's National Emergency Tele-Critical Care Network (NETCCN)</atl>
+        </tig>
+        <aug>
+          <au>PR Newswire</au>
+        </aug>
+        <sug>
+          <subj type="geo">Washington</subj>
+        </sug>
+        <ab>SEATTLE, Sept. 28, 2021 /PRNewswire/ -- As the Covid-19 pandemic swept across the globe, ICUs and hospitals reached and exceeded capacity. Typical transfer patterns were disrupted, leaving bedside providers to deal with an influx of cases beyond their typical scope of practice. In response, the U.S. government set out to develop a program to bring timely and effective assistance to overwhelmed medical facilities. The result was the National Emergency Tele-Critical Care Network (NETCCN), which has been operationalized in numerous regions over the past year, supporting hospitals during surges of Covid-19 patients. Omnicure, one of the technology solutions powering the NETCCN initiative, has made it possible for intensivists to provide remote support to facilities ranging from large health systems to rural critical access hospitals, improving patient outcomes and reducing the need to transfer. [ABSTRACT FROM PUBLISHER]</ab>
+        <pubtype>News</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=bwh&amp;AN=202109281222PR.NEWS.USPR.CG21876&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="25">
+  <header shortDbName="mnh" longDbName="MEDLINE with Full Text" uiTerm="33546599">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>BMC medical research methodology</jtl>
+        <jtl>BMC Med Res Methodol</jtl>
+        <issn type="Electronic">1471-2288</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="02" day="05">2021 Feb 05</dt>
+        <vid>21</vid>
+        <iid>1</iid>
+        <place>England</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">33546599</ui>
+        <ui type="doi">10.1186/s12874-021-01215-y</ui>
+        <pages>27</pages>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>The STS case study: an analysis method for longitudinal qualitative research for implementation science.</atl>
+        </tig>
+        <aug>
+          <au>Van Tiem JM</au>
+          <au>Schacht Reisinger H</au>
+          <au>Friberg JE</au>
+          <au>Wilson JR</au>
+          <au>Fitzwater L</au>
+          <au>Panos RJ</au>
+          <au>Moeckli J</au>
+        </aug>
+        <sug>
+          <subj type="major">Implementation Science</subj>
+          <subj type="major">Telemedicine</subj>
+          <subj type="minor">Humans</subj>
+          <subj type="minor">Intensive Care Units</subj>
+          <subj type="minor">Qualitative Research</subj>
+          <subj type="minor">Reproducibility of Results</subj>
+        </sug>
+        <ab>Ethnographic approaches offer a method and a way of thinking about implementation. This manuscript applies a specific case study method to describe the impact of the longitudinal interplay between implementation stakeholders. Growing out of science and technology studies (STS) and drawing on the latent archaeological sensibilities implied by ethnographic methods, the STS case-study is a tool for implementors to use when a piece of material culture is an essential component of an innovation.</ab>
+        <ab>We conducted an ethnographic process evaluation of the clinical implementation of tele-critical care (Tele-CC) services in the Department of Veterans Affairs. We collected fieldnotes and conducted participant observation at virtual and in-person education and planning events (n = 101 h). At Go-Live and 6-months post-implementation, we conducted site visits to the Tele-CC hub and 3 partnered ICUs. We led semi-structured interviews with ICU staff at Go-Live (43 interviews with 65 participants) and with ICU and Tele-CC staff 6-months post-implementation (44 interviews with 67 participants). We used verification strategies, including methodological coherence, appropriate sampling, collecting and analyzing data concurrently, and thinking theoretically, to ensure the reliability and validity of our data collection and analysis process.</ab>
+        <ab>The STS case-study helped us realize that we must think differently about how a Tele-CC clinician could be noticed moving from communal to intimate space. To understand how perceptions of surveillance impacted staff acceptance, we mapped the materials through which surveillance came to matter in the stories staff told about cameras, buttons, chimes, motors, curtains, and doorbells.</ab>
+        <ab>STS case-studies contribute to the literature on longitudinal qualitive research (LQR) in implementation science, including pen portraits and periodic reflections. Anchored by the material, the heterogeneity of an STS case-study generates questions and encourages exploring differences. Begun early enough, the STS case-study method, like periodic reflections, can serve to iteratively inform data collection for researchers and implementors. The next step is to determine systematically how material culture can reveal implementation barriers and direct attention to potential solutions that address tacit, deeply rooted challenges to innovations in practice and technology.</ab>
+        <pubtype>Journal Article</pubtype>
+        <doctype>Research Support, Non-U.S. Gov't</doctype>
+        <doctype>Research Support, U.S. Gov't, Non-P.H.S.</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=mnh&amp;AN=33546599&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="26">
+  <header shortDbName="edselp" longDbName="ScienceDirect" uiTerm="S0883944111001262">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of Critical Care</jtl>
+        <issn type="electronic">08839441</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2011" month="06" day="01">June 2011</dt>
+        <vid>26</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.jcrc.2011.02.021</ui>
+        <ppf>e18</ppf>
+        <ppct>1</ppct>
+        <tig>
+          <atl>Bayesian assessment of tele-critical care</atl>
+        </tig>
+        <aug>
+          <au>Seiver, Adam</au>
+        </aug>
+        <sug />
+        <pubtype>Academic Journal</pubtype>
+        <doctype>abs</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edselp&amp;AN=S0883944111001262&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="27">
+  <header shortDbName="edsnbk" longDbName="NewsBank" uiTerm="17E1BF9AF6DDBB08">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>PR Newswire (USA)</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="10" day="14">October 14, 2020</dt>
+      </pubinfo>
+      <artinfo>
+        <ppct>2</ppct>
+        <formats />
+        <tig>
+          <atl>Avera eCare and ViTel Net Move Forward in Task 3 of the National Emergency Tele-Critical Care Network (NETCCN)</atl>
+        </tig>
+        <aug />
+        <sug>
+          <subj type="unclass">Health Care/Hospitals</subj>
+          <subj type="unclass">Multimedia/Online/Internet</subj>
+          <subj type="unclass">Computer/Electronics</subj>
+          <subj type="unclass">Medical/Pharmaceuticals</subj>
+          <subj type="unclass">Computer Software</subj>
+          <subj type="unclass">Corporate Expansion</subj>
+          <subj type="unclass">New products/services</subj>
+          <subj type="geo">Virginia</subj>
+        </sug>
+        <ab>MCLEAN, Va., Oct. 14, 2020 /PRNewswire/ -- ViTel Net, the pioneer in telehealth innovation, in collaboration with the telehealth clinical and operational experts at Avera eCARE, will be one of 4 teams to move on and compete in Task 3 of the National Emergency Tele-Critical Care Network (NETCCN) project, led by the U.S...</ab>
+        <pubtype>News</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsnbk&amp;AN=17E1BF9AF6DDBB08&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="28">
+  <header shortDbName="edsnbk" longDbName="NewsBank" uiTerm="17C566FB446E7DB0">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>PR Newswire (USA)</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="07" day="20">July 20, 2020</dt>
+      </pubinfo>
+      <artinfo>
+        <ppct>2</ppct>
+        <formats />
+        <tig>
+          <atl>Capsule Issued Authority to Operate from Defense Health Agency; Partners with Mission First Solutions to support tele-critical care network connecting clinicians and remotely monitored patients in the U.S. Armed Forces</atl>
+        </tig>
+        <aug />
+        <sug>
+          <subj type="unclass">Health Care/Hospitals</subj>
+          <subj type="unclass">Medical Equipment</subj>
+          <subj type="unclass">Medical/Pharmaceuticals</subj>
+          <subj type="geo">Massachusetts</subj>
+        </sug>
+        <ab>ANDOVER, Mass., July 20, 2020 /PRNewswire/ -- Capsule Technologies announced today that it had received an Authority to Operate (ATO) declaration from the Defense Health Agency (DHA) for the company's clinical surveillance and medical device connectivity technologies. Capsule can now support clinicians in delivering tele-critical care and remote patient monitoring to hospitalized members of the U.S...</ab>
+        <pubtype>News</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsnbk&amp;AN=17C566FB446E7DB0&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="29">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="34235456">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Critical care explorations</jtl>
+        <jtl>Crit Care Explor</jtl>
+        <issn type="Electronic">2639-8028</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="06" day="29">2021 Jun 29</dt>
+        <vid>3</vid>
+        <iid>7</iid>
+        <place>United States</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">34235456</ui>
+        <ui type="doi">10.1097/CCE.0000000000000468</ui>
+        <pages>e0468</pages>
+        <formats />
+        <tig>
+          <atl>Characteristics of U.S. Acute Care Hospitals That Have Implemented Telemedicine Critical Care.</atl>
+        </tig>
+        <aug>
+          <au>Ofoma UR</au>
+          <au>Maddox TM</au>
+          <au>Perera C</au>
+          <au>Waken RJ</au>
+          <au>Drewry AM</au>
+          <au>Liu L</au>
+          <au>Boyle W</au>
+          <au>Kollef M</au>
+          <au>Joynt Maddox KE</au>
+        </aug>
+        <sug />
+        <ab>Telemedicine critical care is associated with improved efficiency, quality, and cost-effectiveness. As of 2010, fewer than 5% of U.S. hospitals had telemedicine critical care, and fewer than 10% of ICU beds were covered. We evaluated recent telemedicine critical care implementation and bed coverage rates in the United States and compared characteristics of hospitals with and without telemedicine critical care.</ab>
+        <ab>Cross-sectional study of 2018 American Hospital Association Annual Survey Database.</ab>
+        <ab>U.S. hospitals.</ab>
+        <ab>None.</ab>
+        <ab>None.</ab>
+        <ab>We obtained data regarding telemedicine critical care implementation, ICU capability (defined as ≥ 1 ICU bed), other hospital characteristics, and the Herfindahl-Hirschman Index, a measure of ICU market competition based on hospital referral regions. Among 4,396 hospitals (response rate 71%), 788 (17.9%) had telemedicine critical care, providing potential coverage to 27,624 (28% of total) ICU beds. Among 306 hospital referral regions, 197 (64%) had a respondent hospital with telemedicine critical care. Telemedicine critical care implementation was associated with being a nonprofit (odds ratio, 7.75; 95% CI, 5.18-11.58) or public (odds ratio, 4.16 [2.57-6.73]) compared with for-profit hospital; membership in a health system (odds ratio, 3.83 [2.89-5.08]; stroke telemedicine presence (odds ratio, 6.87 [5.35-8.81]); ICU capability (odds ratio, 1.68 [1.25-2.26]); and more competitive ICU markets (odds ratio per 1,000-point decrease in Herfindahl-Hirschman Index 1.11 [1.01-1.22]). Notably, rural critical access hospitals had lower odds of telemedicine critical care implementation (odds ratio, 0.49 [0.34-0.70]). Teaching status, geographic region, and rurality were not associated with telemedicine critical care implementation.</ab>
+        <ab>About one fifth of respondent hospitals had telemedicine critical care by 2018, providing potential coverage of nearly one third of reported ICU beds. This represents a substantial increase in telemedicine critical care implementation over the last decade. Future expansion to include more rural hospitals that could benefit most may be aided by addressing hospital financial and market barriers to telemedicine critical care implementation.</ab>
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=34235456&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="30">
+  <header shortDbName="edsnbk" longDbName="NewsBank" uiTerm="17C1CA3A6BABA830">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Pharma &amp; Healthcare Monitor Worldwide (Amman, Jordan)</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="07" day="09">July 9, 2020</dt>
+      </pubinfo>
+      <artinfo>
+        <ppct>4</ppct>
+        <formats />
+        <tig>
+          <atl>U.S. Department of Veterans Affairs selects Philips to create worlds largest tele-critical care system, further integrating tele-health and delivering quality care for veterans</atl>
+        </tig>
+        <aug />
+        <sug>
+          <subj type="unclass">Health &amp; Medical</subj>
+        </sug>
+        <ab>(GlobeNewswire) - July 8, 2020 Building on history of collaboration &amp; innovation, Philips helps the U.S. Department of Veterans Affairs (VA) increase Veterans access to enhanced critical care Amsterdam, the Netherlands and Cambridge, MA, U.S. Royal Philips (NYSE: PHG, AEX: PHIA), a global leader in health technology, today announced that the U.S...</ab>
+        <pubtype>News</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsnbk&amp;AN=17C1CA3A6BABA830&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="31">
+  <header shortDbName="edsnbk" longDbName="NewsBank" uiTerm="17C1CD05B639E988">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>ENP Newswire (UK)</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="07" day="09">July 9, 2020</dt>
+      </pubinfo>
+      <artinfo>
+        <ppct>3</ppct>
+        <formats />
+        <tig>
+          <atl>U.S. Department of Veterans Affairs selects Philips to create world's largest tele-critical care system, further integrating tele-health and delivering quality care for veterans</atl>
+        </tig>
+        <aug />
+        <sug />
+        <ab>ENPNEWSWIRE-July 9, 2020--U.S. Department of Veterans Affairs selects Philips to create world's largest tele-critical care system, further integrating tele-health and delivering quality care for veterans (C)2020 Electronic News Publishing - http://www.enpublishing.co.uk Release date- 08072020 - Building on history of collaboration &amp; innovation, Philips helps the U.S. Department of Veterans Affairs (VA) increase Veterans' access to enhanced critical care...</ab>
+        <pubtype>News</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsnbk&amp;AN=17C1CD05B639E988&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="32">
+  <header shortDbName="edsnbk" longDbName="NewsBank" uiTerm="17C1A96075DA9B18">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Thomson Reuters One</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="07" day="08">July 8, 2020</dt>
+      </pubinfo>
+      <artinfo>
+        <ppct>3</ppct>
+        <formats />
+        <tig>
+          <atl>U.S. Department of Veterans Affairs selects Philips to create world's largest tele-critical care system, further integrating tele-health and delivering quality care for veterans</atl>
+        </tig>
+        <aug />
+        <sug>
+          <subj type="unclass">NIGER REPUBLIC</subj>
+          <subj type="unclass">Electronics</subj>
+          <subj type="unclass">Electronic Compo-Misc</subj>
+          <subj type="unclass">Industrial</subj>
+          <subj type="unclass">Koninklijke Philips Electronics N.V.</subj>
+          <subj type="unclass">PHG</subj>
+        </sug>
+        <ab>July 8, 2020 Building on history of collaboration &amp; innovation, Philips helps the U.S. Department of Veterans Affairs (VA) increase Veterans' access to enhanced critical care Amsterdam, the Netherlands and Cambridge, MA, U.S. - Royal Philips (NYSE: PHG, AEX: PHIA), a global leader in health technology, today announced that the U.S...</ab>
+        <pubtype>News</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsnbk&amp;AN=17C1A96075DA9B18&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="33">
+  <header shortDbName="edsnbk" longDbName="NewsBank" uiTerm="17C1C93C4A9F21A8">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Pakistan Press International (Karachi, Pakistan)</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="07" day="08">July 8, 2020</dt>
+      </pubinfo>
+      <artinfo>
+        <ppct>3</ppct>
+        <formats />
+        <tig>
+          <atl>U.S. Department of Veterans Affairs selects Philips to create world's largest tele-critical care system, further integrating tele-health and delivering quality care for veterans - Press Release issued by Royal Philips</atl>
+        </tig>
+        <aug />
+        <sug>
+          <subj type="unclass">PPI Press Release</subj>
+        </sug>
+        <ab>July 08, 2020 (PPI-OT) / PRNewswire / Asianet-Pakistan: Following is the text of press release issued by Royal Philips Quote Royal Philips (NYSE: PHG, AEX: PHIA), a global leader in health technology, today announced that the U.S. Department of Veterans Affairs (VA) has awarded a contract to Philips to expand VA's tele-critical care program, creating the world's largest system to provide veterans remote access to intensive care expertise, regardless of their location...</ab>
+        <pubtype>News</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsnbk&amp;AN=17C1C93C4A9F21A8&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="34">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="26741192">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Telemedicine journal and e-health : the official journal of the American Telemedicine Association</jtl>
+        <jtl>Telemed J E Health</jtl>
+        <issn type="Electronic">1556-3669</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2016" month="06" day="01">2016 Jun</dt>
+        <vid>22</vid>
+        <iid>6</iid>
+        <place>United States</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">26741192</ui>
+        <ui type="doi">10.1089/tmj.2015.0098</ui>
+        <pages>529-33</pages>
+        <formats />
+        <tig>
+          <atl>Projecting Critical Care Beyond the ICU: An Analysis of Tele-ICU Support for Rapid Response Teams.</atl>
+        </tig>
+        <aug>
+          <au>Pappas PA</au>
+          <au>Tirelli L</au>
+          <au>Shaffer J</au>
+          <au>Gettings S</au>
+        </aug>
+        <sug>
+          <subj type="major">Critical Care organization &amp; administration</subj>
+          <subj type="major">Hospital Rapid Response Team organization &amp; administration</subj>
+          <subj type="major">Telemedicine organization &amp; administration</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Aged, 80 and over</subj>
+          <subj type="minor">Critical Care economics</subj>
+          <subj type="minor">Critical Care standards</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Hospital Rapid Response Team economics</subj>
+          <subj type="minor">Hospital Rapid Response Team standards</subj>
+          <subj type="minor">Humans</subj>
+          <subj type="minor">Intensive Care Units</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Middle Aged</subj>
+          <subj type="minor">Quality of Health Care</subj>
+          <subj type="minor">Retrospective Studies</subj>
+          <subj type="minor">Telemedicine economics</subj>
+          <subj type="minor">Telemedicine standards</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Aged, 80 and over</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">All Adult: 19+ years</subj>
+          <subj type="gender">Female</subj>
+          <subj type="gender">Male</subj>
+        </sug>
+        <ab>The rapid response team (RRT) concept was developed to improve care for decompensating patients outside of the intensive care unit (ICU) setting. The tele-ICU service (eICU(®)) at Health First Hospitals (Brevard County, FL) has provided tele-critical care support for patients outside the ICU using a mobile platform (the eMobile platform) since 2012. In this study we sought to evaluate the ability of eMobile to support care administered by RRTs.</ab>
+        <ab>A retrospective review evaluating mobile cart activations for RRT calls was performed. Data on mobile cart deployments were recorded over a 33-month period from January 2012 through September 2014.</ab>
+        <ab>Five hundred eighty mobile cart activations for critical care support were initiated by RRTs, and 577 were completed (&gt;99%). For recorded gender, 223 patients (47%) were male, and 248 (53%) patients were female. Mean recorded age was 70 ± 16 years (median, 72 years). The most common patient conditions were respiratory distress (n = 190, 33%), altered mental status (n = 137, 24%) and hypotension (n = 59, 10%). The most common interventions were medication orders (n = 231, 40%) and laboratory studies (n = 92, 29%). For 566 eMobile calls with documented dispositions, 189 patients (33%) were managed without ICU upgrade. No adverse patient outcomes were recorded involving eMobile. Compared with the RRT program in 2009, the last year before testing of eMobile began (2010-2011), addition of tele-critical care support for calendar years 2012 and 2013 increased projected cost avoidance from unnecessary ICU transfers by a mean of 66% above the 2009 baseline. For Fiscal Year 2014, a projected cost avoidance analysis for unnecessary ICU transfers including costs of information technology (IT) support demonstrated a return on investment up to $1.66 for every $1 invested in IT support.</ab>
+        <ab>Mobile critical care coupled with RRT is clinically effective and can generate meaningful cost avoidance.</ab>
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=26741192&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="35">
+  <header shortDbName="edsnbk" longDbName="NewsBank" uiTerm="180856478D09D460">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Business Wire</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="02" day="08">February 8, 2021</dt>
+      </pubinfo>
+      <artinfo>
+        <ppct>4</ppct>
+        <formats />
+        <tig>
+          <atl>Home Healthcare Markets, 2027 - Increasing Growth of the Home-Based Tele-Critical Care &amp; Isolation Due to COVID-19 Pandemic - ResearchAndMarkets.com</atl>
+        </tig>
+        <aug>
+          <au>ResearchAndMarkets.com Laura Wood, Senior Press Ma</au>
+        </aug>
+        <sug>
+          <subj type="unclass">Health</subj>
+          <subj type="unclass">General Health</subj>
+        </sug>
+        <ab>The "Home Healthcare Market Analysis, By Product, By Software, By Services, By Purposes, By Type, And Segment Forecasts To 2027" report has been added to ResearchAndMarkets.com's offering. The Global Home Healthcare Market size is forecast to reach USD 680.35 Billion by 2027. Market growth is driven by an upsurge in demand for telehealth systems, coupled with a rapid adoption rate of endless numbers of home healthcare systems globally amid the COVID 19 outbreak owing to lack of sufficient isolation wards &amp; critical units...</ab>
+        <pubtype>News</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsnbk&amp;AN=180856478D09D460&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="36">
+  <header shortDbName="edsnbk" longDbName="NewsBank" uiTerm="17E1D7EA647B7658">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Breeze, The: James Madison University (Harrisonburg, VA)</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="10" day="14">October 14, 2020</dt>
+      </pubinfo>
+      <artinfo>
+        <ppct>3</ppct>
+        <formats />
+        <tig>
+          <atl>Avera eCare and ViTel Net Move Forward in Task 3 of the National Emergency Tele-Critical Care Network (NETCCN)</atl>
+        </tig>
+        <aug />
+        <sug />
+        <ab>MCLEAN, Va., Oct. 14, 2020 /PRNewswire/ -- ViTel Net, the pioneer in telehealth innovation, in collaboration with the telehealth clinical and operational experts at Avera eCARE, will be one of 4 teams to move on and compete in Task 3 of the National Emergency Tele-Critical Care Network (NETCCN) project, led by the U.S...</ab>
+        <pubtype>News</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsnbk&amp;AN=17E1D7EA647B7658&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="37">
+  <header shortDbName="edsnbk" longDbName="NewsBank" uiTerm="17C1A962CD47C7C0">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>theflyonthewall News (USA)</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="07" day="08">July 8, 2020</dt>
+      </pubinfo>
+      <artinfo>
+        <ppct>1</ppct>
+        <formats />
+        <tig>
+          <atl>09:09 EDT Philips awarded up to $100M contract to expand VA tele-critical care program</atl>
+        </tig>
+        <aug />
+        <sug>
+          <subj type="unclass">NIGER REPUBLIC</subj>
+          <subj type="unclass">Electronics</subj>
+          <subj type="unclass">Electronic Compo-Misc</subj>
+          <subj type="unclass">Industrial</subj>
+          <subj type="unclass">Koninklijke Philips Electronics N.V.</subj>
+          <subj type="unclass">PHG</subj>
+        </sug>
+        <ab>Philips announced that the U.S. Department of Veterans Affairs, or VA, has awarded a contract to Philips to expand VA's tele-critical care program, creating the world's largest system to provide veterans remote access to intensive care expertise, regardless of their location. The ten-year contract enables VA to invest up to $100M with Philips for tele-critical care technology and services...</ab>
+        <pubtype>News</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsnbk&amp;AN=17C1A962CD47C7C0&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="38">
+  <header shortDbName="edsnbk" longDbName="NewsBank" uiTerm="177C764A34CC6350">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Thomson Reuters One</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="12" day="11">December 11, 2019</dt>
+      </pubinfo>
+      <artinfo>
+        <ppct>4</ppct>
+        <formats />
+        <tig>
+          <atl>Philips and Health First spotlight results of 15-year strategic collaboration in tele-critical care</atl>
+        </tig>
+        <aug />
+        <sug>
+          <subj type="unclass">NIGER REPUBLIC</subj>
+          <subj type="unclass">Electronics</subj>
+          <subj type="unclass">Electronic Compo-Misc</subj>
+          <subj type="unclass">Industrial</subj>
+          <subj type="unclass">Koninklijke Philips Electronics N.V.</subj>
+          <subj type="unclass">PHG</subj>
+        </sug>
+        <ab>December 11, 2019 - Powered by Philips telehealth technology, Florida's first eICU touts reduced mortality rates and hospital stays for the sickest patients - Long-term alliance in telehealth innovation features centralized Clinical Operations Center approach to drive improved patient outcomes Amsterdam, the Netherlands and Rockledge, United States - Royal Philips (NYSE: PHG, AEX: PHIA), a global leader in health technology, and Florida-based Health First today announced the outcomes of their successful 15-year tele-critical partnership...</ab>
+        <pubtype>News</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsnbk&amp;AN=177C764A34CC6350&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="39">
+  <header shortDbName="edsnbk" longDbName="NewsBank" uiTerm="177D3ED1D49F1550">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Pakistan Press International (Karachi, Pakistan)</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="12" day="13">December 13, 2019</dt>
+      </pubinfo>
+      <artinfo>
+        <ppct>3</ppct>
+        <formats />
+        <tig>
+          <atl>Philips and Health First spotlight results of 15-year strategic collaboration in tele-critical care - Press Release issued by Royal Philips</atl>
+        </tig>
+        <aug />
+        <sug>
+          <subj type="unclass">PPI Press Release</subj>
+        </sug>
+        <ab>December 13, 2019 (PPI-OT) / PRNewswire / Asianet-Pakistan: Following is the text of press release issued by Royal Philips Quote Royal Philips (NYSE: PHG, AEX: PHIA), a global leader in health technology, and Florida-based Health First today announced the outcomes of their successful 15-year tele-critical partnership. Powered by Philips' acute telehealth platform eCareManager, Health First's VitalWatch eICU has demonstrated significant reductions in mortality and lengths of stay for the health system's sickest patient population...</ab>
+        <pubtype>News</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsnbk&amp;AN=177D3ED1D49F1550&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="40">
+  <header shortDbName="edsnbk" longDbName="NewsBank" uiTerm="177C7B84F62F9118">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Pharma &amp; Healthcare Monitor Worldwide (Amman, Jordan)</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="12" day="12">December 12, 2019</dt>
+      </pubinfo>
+      <artinfo>
+        <ppct>5</ppct>
+        <formats />
+        <tig>
+          <atl>Philips and Health First spotlight results of 15-year strategic collaboration in tele-critical care</atl>
+        </tig>
+        <aug />
+        <sug>
+          <subj type="unclass">Health &amp; Medical</subj>
+        </sug>
+        <ab>(GlobeNewswire) - December 11, 2019 Powered by Philips telehealth technology, Floridas first eICU touts reduced mortality rates and hospital stays for the sickest patients Long-term alliance in telehealth innovation features centralized Clinical Operations Center approach to drive improved patient outcomes Amsterdam, the Netherlands and Rockledge, United States Royal Philips (NYSE: PHG, AEX: PHIA), a global leader in health technology, and Florida-based Health First today announced the outcomes of their successful 15-year tele-critical partnership...</ab>
+        <pubtype>News</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsnbk&amp;AN=177C7B84F62F9118&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="41">
+  <header shortDbName="edssjb" longDbName="Springer Nature eBooks" uiTerm="edssjb.978.3.030.11569.2.11">
+    <controlInfo>
+      <bkinfo>
+        <isbn type="print">3030115690</isbn>
+        <isbn type="print">3030115682</isbn>
+        <isbn type="print">9783030115692</isbn>
+        <isbn type="print">9783030115685</isbn>
+      </bkinfo>
+      <jinfo>
+        <jtl>Telemedicine in the ICU</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="01" day="03"></dt>
+        <place>Cham</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1007/978-3-030-11569-2_11</ui>
+        <ppf>197</ppf>
+        <ppct>13</ppct>
+        <tig>
+          <atl>Cost-Benefit Analysis of Implementing Telemedicine in the ICU</atl>
+        </tig>
+        <aug>
+          <au>Sanjay Subramanian</au>
+          <au>Christopher M. Palmer</au>
+          <au>Matthew A. Koenig</au>
+        </aug>
+        <sug>
+          <subj type="unclass">Medicine &amp; Public Health</subj>
+          <subj type="unclass">Intensive / Critical Care Medicine</subj>
+          <subj type="unclass">Medicine</subj>
+          <subj type="unclass">Tele-ICU</subj>
+          <subj type="unclass">eICU</subj>
+          <subj type="unclass">Tele-critical care</subj>
+          <subj type="unclass">Cost-effectiveness of tele-ICU</subj>
+          <subj type="unclass">Cost of tele-ICU</subj>
+        </sug>
+        <ab>Tele-ICU implementation costs can be significant, and it is important for organizations to understand the various components of the costs involved. A careful cost-benefit analysis is highly recommended given the unique needs and goals of each organization. In the absence of direct commercial revenues from insurers for patient encounters via tele-ICU services, organizations might consider evaluating financial benefits in a more global context factoring in indirect revenue sources, cost avoidance, and cost reductions due to enhanced efficiency of service delivery. In order to demonstrate tangible financial benefits, deep integration into bedside ICU services is essential. This chapter provides an overview of implementation costs, revenue sources, and a framework for cost-benefit analysis for tele-ICU implementation.</ab>
+        <pubtype>eBook</pubtype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edssjb&amp;AN=edssjb.978.3.030.11569.2.11&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="42">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="33786439">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Critical care explorations</jtl>
+        <jtl>Crit Care Explor</jtl>
+        <issn type="Electronic">2639-8028</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="03" day="05">2021 Mar 05</dt>
+        <vid>3</vid>
+        <iid>3</iid>
+        <place>United States</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">33786439</ui>
+        <ui type="doi">10.1097/CCE.0000000000000363</ui>
+        <pages>e0363</pages>
+        <formats />
+        <tig>
+          <atl>Collaboration Between Tele-ICU Programs Has the Potential to Rapidly Increase the Availability of Critical Care Physicians-Our Experience Was During Coronavirus Disease 2019 Nomenclature.</atl>
+        </tig>
+        <aug>
+          <au>Chandra S</au>
+          <au>Hertz C</au>
+          <au>Khurana H</au>
+          <au>Doerfler ME</au>
+        </aug>
+        <sug />
+        <ab>Implement a connected network between two Tele-ICU programs to support staffing and rounding during the first wave of the coronavirus disease 2019 pandemic in the United States.</ab>
+        <ab>Proof of Concept model.</ab>
+        <ab>Northwell Health; a 23 Hospital, 40 ICU (500 ICU beds) healthcare organization serving the downstate NY area. During the initial coronavirus disease 2019 pandemic, Northwell Health rapidly expanded to greater than 1,000 ICU beds. The surge in patients required redeployment of noncritical care providers to the ICU bedside. The Tele-ICU program expanded from covering 176 beds pre pandemic to assisting with care for patients in approximately 450 beds via deployment of Wi-Fi-enabled mobile telehealth carts to the newly formed ICUs.</ab>
+        <ab>Critically ill coronavirus disease 2019 patients hospitalized at Northwell Health, NY, at any point from March 2020 to June 2020.</ab>
+        <ab>To offset the shortage of critical care physicians, Northwell Health established a collaboration with the Tele-ICU program of Providence, St. Joseph Health in the state of Washington, which enabled the critical care physicians of Providence, St. Joseph Health to participate in virtual rounding on critically ill coronavirus disease 2019 patients at Northwell Health.</ab>
+        <ab>We developed an innovative hybrid model that allowed for virtual rounding on an additional 40-60 patients per day by a remote critical care physician at Providence, St. Joseph Health. This was accomplished in approximately 3 weeks and provided remote care to complex patients.</ab>
+        <ab>Our findings demonstrate the proof of concept of establishing a network of connected Tele-ICU programs as a rapidly scalable and sustainable paradigm for the provision of support from critical care physicians for noncritical care teams at the bedside.</ab>
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=33786439&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="43">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="143360624">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Critical Care Medicine</jtl>
+        <issn>00903493</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="06" day="01">Jun2020</dt>
+        <vid>48</vid>
+        <iid>6</iid>
+        <place>Baltimore, Maryland</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/CCM.0000000000004288</ui>
+        <ui type="pmid">NLM32433092</ui>
+        <ppf>e540</ppf>
+        <ppct>1</ppct>
+        <formats />
+        <tig>
+          <atl>A Simple But Often Ignored Formula to Improve Critical Care: "Telemedicine + Ultrasound = Tele-Ultrasound".</atl>
+        </tig>
+        <aug>
+          <au>Levine, Andrea R.</au>
+          <au>Verceles, Avelino C.</au>
+          <au>McCurdy, Michael T.</au>
+          <affil>Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, University of Maryland, School of Medicine, Baltimore, MD</affil>
+        </aug>
+        <sug>
+          <subj type="major">Telemedicine</subj>
+          <subj type="major">Critical Care</subj>
+          <subj type="minor">Ultrasonography</subj>
+          <subj type="minor">Intensive Care Units</subj>
+          <subj type="minor">Critical Care Family Needs Inventory</subj>
+        </sug>
+        <ab>We enjoyed the well-written review by Subramanian et al ([1]), published in a recent issue of I Critical Care Medicine i , on the current and evolving extensive use of tele-critical care (TCC) in both resource-rich and resource-limited settings. Tele-ultrasound, in which a remotely located ultrasound-proficient provider guides an ultrasound-naïve bedside provider to acquire images, can overcome this obstacle.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>commentary</doctype>
+        <doctype>letter</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=143360624&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="44">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="115672074">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Telemedicine &amp; e-Health</jtl>
+        <issn>15305627</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2016" month="06" day="01">Jun2016</dt>
+        <vid>22</vid>
+        <iid>6</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1089/tmj.2015.0098</ui>
+        <ppf>529</ppf>
+        <ppct>5</ppct>
+        <formats />
+        <tig>
+          <atl>Projecting Critical Care Beyond the ICU: An Analysis of Tele-ICU Support for Rapid Response Teams.</atl>
+        </tig>
+        <aug>
+          <au>Pappas, Peter A.</au>
+          <au>Tirelli, Luann</au>
+          <au>Shaffer, James</au>
+          <au>Gettings, Scott</au>
+          <affil>Trauma, Acute Care Surgery, and Critical Care, Health First Holmes Regional Medical Center, Melbourne, Florida.</affil>
+          <affil>Department of Surgery, Health First Holmes Regional Medical Center, University of Central Florida College of Medicine, Orlando, Florida.</affil>
+          <affil>Health First Tele-Health, Rockledge, Florida.</affil>
+        </aug>
+        <sug>
+          <subj type="thes">TELEMEDICINE</subj>
+          <subj type="thes">MOBILE health</subj>
+          <subj type="thes">CRITICAL care medicine</subj>
+          <subj type="thes">COST effectiveness</subj>
+          <subj type="thes">MEDICAL care</subj>
+        </sug>
+        <ab>Background: The rapid response team (RRT) concept was developed to improve care for decompensating patients outside of the intensive care unit (ICU) setting. The tele-ICU service (eICU®) at Health First Hospitals (Brevard County, FL) has provided tele-critical care support for patients outside the ICU using a mobile platform (the eMobile platform) since 2012. In this study we sought to evaluate the ability of eMobile to support care administered by RRTs. Materials and Methods: A retrospective review evaluating mobile cart activations for RRT calls was performed. Data on mobile cart deployments were recorded over a 33-month period from January 2012 through September 2014. Results: Five hundred eighty mobile cart activations for critical care support were initiated by RRTs, and 577 were completed (&gt;99%). For recorded gender, 223 patients (47%) were male, and 248 (53%) patients were female. Mean recorded age was 70 ± 16 years (median, 72 years). The most common patient conditions were respiratory distress (n = 190, 33%), altered mental status (n = 137, 24%) and hypotension (n = 59, 10%). The most common interventions were medication orders (n = 231, 40%) and laboratory studies (n = 92, 29%). For 566 eMobile calls with documented dispositions, 189 patients (33%) were managed without ICU upgrade. No adverse patient outcomes were recorded involving eMobile. Compared with the RRT program in 2009, the last year before testing of eMobile began (2010-2011), addition of tele-critical care support for calendar years 2012 and 2013 increased projected cost avoidance from unnecessary ICU transfers by a mean of 66% above the 2009 baseline. For Fiscal Year 2014, a projected cost avoidance analysis for unnecessary ICU transfers including costs of information technology (IT) support demonstrated a return on investment up to $1.66 for every $1 invested in IT support. Conclusions: Mobile critical care coupled with RRT is clinically effective and can generate meaningful cost avoidance.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=115672074&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="45">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="32456560">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Telemedicine journal and e-health : the official journal of the American Telemedicine Association</jtl>
+        <jtl>Telemed J E Health</jtl>
+        <issn type="Electronic">1556-3669</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="10" day="01">2020 Oct</dt>
+        <vid>26</vid>
+        <iid>10</iid>
+        <place>United States</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">32456560</ui>
+        <ui type="doi">10.1089/tmj.2020.0140</ui>
+        <pages>1226-1233</pages>
+        <formats />
+        <tig>
+          <atl>Advanced Digital Health Technologies for COVID-19 and Future Emergencies.</atl>
+        </tig>
+        <aug>
+          <au>Scott BK</au>
+          <au>Miller GT</au>
+          <au>Fonda SJ</au>
+          <au>Yeaw RE</au>
+          <au>Gaudaen JC</au>
+          <au>Pavliscsak HH</au>
+          <au>Quinn MT</au>
+          <au>Pamplin JC</au>
+        </aug>
+        <sug>
+          <subj type="geographic">United States</subj>
+          <subj type="major">Biomedical Technology trends</subj>
+          <subj type="major">Civil Defense methods</subj>
+          <subj type="major">Coronavirus Infections prevention &amp; control</subj>
+          <subj type="major">Critical Care organization &amp; administration</subj>
+          <subj type="major">Pandemics prevention &amp; control</subj>
+          <subj type="major">Pneumonia, Viral prevention &amp; control</subj>
+          <subj type="major">Telemedicine instrumentation</subj>
+          <subj type="minor">COVID-19</subj>
+          <subj type="minor">Coronavirus Infections epidemiology</subj>
+          <subj type="minor">Emergencies</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Forecasting</subj>
+          <subj type="minor">Global Health</subj>
+          <subj type="minor">Humans</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Pandemics statistics &amp; numerical data</subj>
+          <subj type="minor">Pneumonia, Viral epidemiology</subj>
+          <subj type="minor">Telemedicine methods</subj>
+          <subj type="minor">United States</subj>
+          <subj type="gender">Female</subj>
+          <subj type="gender">Male</subj>
+        </sug>
+        <ab>            Background:                  Coronavirus disease 2019 (COVID-19) has led to a national health care emergency in the United States and exposed resource shortages, particularly of health care providers trained to provide critical or intensive care. This article describes how digital health technologies are being or could be used for COVID-19 mitigation. It then proposes the National Emergency Tele-Critical Care Network (NETCCN), which would combine digital health technologies to address this and future crises.                     Methods:                  Subject matter experts from the Society of Critical Care Medicine and the Telemedicine and Advanced Technology Research Center examined the peer-reviewed literature and science/technology news to see what digital health technologies have already been or could be implemented to (1) support patients while limiting COVID-19 transmission, (2) increase health care providers' capability and capacity, and (3) predict/prevent future outbreaks.                     Results:                  Major technologies identified included telemedicine and mobile care (for COVID-19 as well as routine care), tiered telementoring, telecritical care, robotics, and artificial intelligence for monitoring. Several of these could be assimilated to form an interoperable scalable NETCCN. NETCCN would assist health care providers, wherever they are located, by obtaining real-time patient and supplies data and disseminating critical care expertise. NETCCN capabilities should be maintained between disasters and regularly tested to ensure continual readiness.                     Conclusions:                  COVID-19 has demonstrated the impact of a large-scale health emergency on the existing infrastructures. Short term, an approach to meeting this challenge is to adopt existing digital health technologies. Long term, developing a NETCCN may ensure that the necessary ecosystem is available to respond to future emergencies.</ab>
+        <pubtype>Journal Article</pubtype>
+        <doctype>Review</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=32456560&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="46">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="146296897">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Telemedicine &amp; e-Health</jtl>
+        <issn>15305627</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="10" day="01">Oct2020</dt>
+        <vid>26</vid>
+        <iid>10</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1089/tmj.2020.0140</ui>
+        <ppf>1226</ppf>
+        <ppct>8</ppct>
+        <formats />
+        <tig>
+          <atl>Advanced Digital Health Technologies for COVID-19 and Future Emergencies.</atl>
+        </tig>
+        <aug>
+          <au>Scott, Benjamin K.</au>
+          <au>Miller, Geoffrey T.</au>
+          <au>Fonda, Stephanie J.</au>
+          <au>Yeaw, Ronald E.</au>
+          <au>Gaudaen, James C.</au>
+          <au>Pavliscsak, Holly H.</au>
+          <au>Quinn, Matthew T.</au>
+          <au>Pamplin, Jeremy C.</au>
+          <affil>Department of Anesthesiology, University of Colorado School of Medicine, Denver, Colorado, USA.</affil>
+          <affil>Telemedicine and Advanced Technology Research Center, United States Army Medical Research and Development Command, Fort Detrick, Maryland, USA.</affil>
+          <affil>School of Health Professions, Eastern Virginia Medical School, Norfolk, Virginia, USA.</affil>
+          <affil>Estenda Solutions, Inc., Conshohocken, Pennsylvania, USA.</affil>
+          <affil>Departments of Medicine, and Military and Emergency Medicine, Uniformed Services University, Bethesda, Maryland, USA.</affil>
+        </aug>
+        <sug>
+          <subj type="thes">MEDICAL technology</subj>
+          <subj type="thes">COVID-19</subj>
+          <subj type="thes">DIGITAL technology</subj>
+          <subj type="thes">MEDICAL personnel</subj>
+          <subj type="thes">SCIENTIFIC literature</subj>
+          <subj type="thes">TELEMEDICINE</subj>
+          <subj type="thes">VETERINARY critical care</subj>
+          <subj type="geo">UNITED States</subj>
+          <subj type="naics">Surgical and Medical Instrument Manufacturing</subj>
+          <subj type="naics">Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers</subj>
+          <subj type="naics">Surgical Appliance and Supplies Manufacturing</subj>
+        </sug>
+        <ab>Background:Coronavirus disease 2019 (COVID-19) has led to a national health care emergency in the United States and exposed resource shortages, particularly of health care providers trained to provide critical or intensive care. This article describes how digital health technologies are being or could be used for COVID-19 mitigation. It then proposes the National Emergency Tele-Critical Care Network (NETCCN), which would combine digital health technologies to address this and future crises. Methods:Subject matter experts from the Society of Critical Care Medicine and the Telemedicine and Advanced Technology Research Center examined the peer-reviewed literature and science/technology news to see what digital health technologies have already been or could be implemented to (1) support patients while limiting COVID-19 transmission, (2) increase health care providers' capability and capacity, and (3) predict/prevent future outbreaks. Results:Major technologies identified included telemedicine and mobile care (for COVID-19 as well as routine care), tiered telementoring, telecritical care, robotics, and artificial intelligence for monitoring. Several of these could be assimilated to form an interoperable scalable NETCCN. NETCCN would assist health care providers, wherever they are located, by obtaining real-time patient and supplies data and disseminating critical care expertise. NETCCN capabilities should be maintained between disasters and regularly tested to ensure continual readiness. Conclusions:COVID-19 has demonstrated the impact of a large-scale health emergency on the existing infrastructures. Short term, an approach to meeting this challenge is to adopt existing digital health technologies. Long term, developing a NETCCN may ensure that the necessary ecosystem is available to respond to future emergencies.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=146296897&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="47">
+  <header shortDbName="edsdoj" longDbName="Directory of Open Access Journals" uiTerm="edsdoj.344fd045e21544578e18e91fdf6f3301">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>BMC Medical Research Methodology</jtl>
+        <issn type="print">14712288</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="02" day="01"></dt>
+        <vid>21</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1186/s12874-021-01215-y</ui>
+        <ppf>1</ppf>
+        <ppct>12</ppct>
+        <tig>
+          <atl>The STS case study: an analysis method for longitudinal qualitative research for implementation science</atl>
+        </tig>
+        <aug>
+          <au>Jennifer M. Van Tiem</au>
+          <au>Heather Schacht Reisinger</au>
+          <au>Julia E. Friberg</au>
+          <au>Jaime R. Wilson</au>
+          <au>Lynn Fitzwater</au>
+          <au>Ralph J. Panos</au>
+          <au>Jane Moeckli</au>
+        </aug>
+        <sug>
+          <subj type="unclass">Longitudinal qualitative research</subj>
+          <subj type="unclass">Science and technology studies</subj>
+          <subj type="unclass">Implementation</subj>
+          <subj type="unclass">Telemedicine</subj>
+          <subj type="unclass">Critical care</subj>
+          <subj type="unclass">Ethnography</subj>
+          <subj type="unclass">Medicine (General)</subj>
+          <subj type="unclass">R5-920</subj>
+        </sug>
+        <ab>Abstract Background Ethnographic approaches offer a method and a way of thinking about implementation. This manuscript applies a specific case study method to describe the impact of the longitudinal interplay between implementation stakeholders. Growing out of science and technology studies (STS) and drawing on the latent archaeological sensibilities implied by ethnographic methods, the STS case-study is a tool for implementors to use when a piece of material culture is an essential component of an innovation. Methods We conducted an ethnographic process evaluation of the clinical implementation of tele-critical care (Tele-CC) services in the Department of Veterans Affairs. We collected fieldnotes and conducted participant observation at virtual and in-person education and planning events (n = 101 h). At Go-Live and 6-months post-implementation, we conducted site visits to the Tele-CC hub and 3 partnered ICUs. We led semi-structured interviews with ICU staff at Go-Live (43 interviews with 65 participants) and with ICU and Tele-CC staff 6-months post-implementation (44 interviews with 67 participants). We used verification strategies, including methodological coherence, appropriate sampling, collecting and analyzing data concurrently, and thinking theoretically, to ensure the reliability and validity of our data collection and analysis process. Results The STS case-study helped us realize that we must think differently about how a Tele-CC clinician could be noticed moving from communal to intimate space. To understand how perceptions of surveillance impacted staff acceptance, we mapped the materials through which surveillance came to matter in the stories staff told about cameras, buttons, chimes, motors, curtains, and doorbells. Conclusions STS case-studies contribute to the literature on longitudinal qualitive research (LQR) in implementation science, including pen portraits and periodic reflections. Anchored by the material, the heterogeneity of an STS case-study generates questions and encourages exploring differences. Begun early enough, the STS case-study method, like periodic reflections, can serve to iteratively inform data collection for researchers and implementors. The next step is to determine systematically how material culture can reveal implementation barriers and direct attention to potential solutions that address tacit, deeply rooted challenges to innovations in practice and technology.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsdoj&amp;AN=edsdoj.344fd045e21544578e18e91fdf6f3301&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="48">
+  <header shortDbName="mth" longDbName="Military &amp; Government Collection" uiTerm="144648544">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Vantage Point</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="06" day="01">Jun2020</dt>
+      </pubinfo>
+      <artinfo>
+        <ppf>1</ppf>
+        <ppct>1</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+        </formats>
+        <tig>
+          <atl>Checking on patients - 250 miles away: Saves Veterans long trips to see a specialist.</atl>
+        </tig>
+        <aug />
+        <sug>
+          <subj type="unclass">VETERANS</subj>
+          <subj type="unclass">TELEMEDICINE</subj>
+          <subj type="unclass">HEALTH facilities</subj>
+          <subj type="unclass">SPECIALISTS</subj>
+          <subj type="unclass">INPATIENT care</subj>
+        </sug>
+        <ab>But Dr. Alison Grazioli (pictured above) often doesn't need to navigate those hallways, unlike many of her fellow providers at the Cincinnati VA Medical Center. Tele-critical care workstations allow over 20 providers and nurses to offer real-time intensive care telehealth services to 19 VA medical facilities across the country "I had some hesitancy at first with providing tele-critical care services. VA Video Connect enables Veterans to use their smartphones or computers to consult with care teams from anywhere.</ab>
+        <pubtype>Blog Entry</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=mth&amp;AN=144648544&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="49">
+  <header shortDbName="edsdoj" longDbName="Directory of Open Access Journals" uiTerm="edsdoj.4ed7f845a21c43dab59f031c0357e758">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Healthcare</jtl>
+        <issn type="print">22279032</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="01" day="01"></dt>
+        <vid>9</vid>
+        <iid>73</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.3390/healthcare9010073</ui>
+        <ppf>73</ppf>
+        <ppct>1</ppct>
+        <tig>
+          <atl>Developing the eMedical Student (eMS)—A Pilot Project Integrating Medical Students into the Tele-ICU during the COVID-19 Pandemic and Beyond</atl>
+        </tig>
+        <aug>
+          <au>Joshua Ho</au>
+          <au>Philip Susser</au>
+          <au>Cindy Christian</au>
+          <au>Horace DeLisser</au>
+          <au>Michael J. Scott</au>
+          <au>Lynn A. Pauls</au>
+          <au>Ann M. Huffenberger</au>
+          <au>William C. Hanson III</au>
+          <au>John M. Chandler</au>
+          <au>Lee A. Fleisher</au>
+          <au>Krzysztof Laudanski</au>
+        </aug>
+        <sug>
+          <subj type="unclass">COVID-19</subj>
+          <subj type="unclass">critical care</subj>
+          <subj type="unclass">medical education</subj>
+          <subj type="unclass">telehealth</subj>
+          <subj type="unclass">Medicine</subj>
+        </sug>
+        <ab>The COVID-19 pandemic has accelerated the demand for virtual healthcare delivery and highlighted the scarcity of telehealth medical student curricula, particularly tele-critical care. In partnership with the Penn E-lert program and the Department of Anesthesiology and Critical Care, the Perelman School of Medicine (PSOM) established a tele-ICU rotation to support the care of patients diagnosed with COVID-19 in the Intensive Care Unit (ICU). The four-week course had seven elements: (1) 60 h of clinical engagement; (2) multiple-choice pretest; (3) faculty-supervised, student-led case and topic presentations; (4) faculty-led debriefing sessions; (5) evidence-based-medicine discussion forum; (6) multiple-choice post-test; and (7) final reflection. Five third- and fourth-year medical students completed 300 h of supervised clinical engagement, following 16 patients over three weeks and documenting 70 clinical interventions. Knowledge of critical care and telehealth was demonstrated through improvement between pre-test and post-test scores. Professional development was demonstrated through post-course preceptor and learner feedback. This tele-ICU rotation allowed students to gain telemedicine exposure and participate in the care of COVID patients in a safe environment.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsdoj&amp;AN=edsdoj.4ed7f845a21c43dab59f031c0357e758&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="50">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="33466781">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Healthcare (Basel, Switzerland)</jtl>
+        <jtl>Healthcare (Basel)</jtl>
+        <issn type="Print">2227-9032</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="01" day="14">2021 Jan 14</dt>
+        <vid>9</vid>
+        <iid>1</iid>
+        <place>Switzerland</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">33466781</ui>
+        <ui type="doi">10.3390/healthcare9010073</ui>
+        <formats />
+        <tig>
+          <atl>Developing the eMedical Student (eMS)-A Pilot Project Integrating Medical Students into the Tele-ICU during the COVID-19 Pandemic and beyond.</atl>
+        </tig>
+        <aug>
+          <au>Ho J</au>
+          <au>Susser P</au>
+          <au>Christian C</au>
+          <au>DeLisser H</au>
+          <au>Scott MJ</au>
+          <au>Pauls LA</au>
+          <au>Huffenberger AM</au>
+          <au>Hanson CW 3rd</au>
+          <au>Chandler JM</au>
+          <au>Fleisher LA</au>
+          <au>Laudanski K</au>
+        </aug>
+        <sug />
+        <ab>The COVID-19 pandemic has accelerated the demand for virtual healthcare delivery and highlighted the scarcity of telehealth medical student curricula, particularly tele-critical care. In partnership with the Penn E-lert program and the Department of Anesthesiology and Critical Care, the Perelman School of Medicine (PSOM) established a tele-ICU rotation to support the care of patients diagnosed with COVID-19 in the Intensive Care Unit (ICU). The four-week course had seven elements: (1) 60 h of clinical engagement; (2) multiple-choice pretest; (3) faculty-supervised, student-led case and topic presentations; (4) faculty-led debriefing sessions; (5) evidence-based-medicine discussion forum; (6) multiple-choice post-test; and (7) final reflection. Five third- and fourth-year medical students completed 300 h of supervised clinical engagement, following 16 patients over three weeks and documenting 70 clinical interventions. Knowledge of critical care and telehealth was demonstrated through improvement between pre-test and post-test scores. Professional development was demonstrated through post-course preceptor and learner feedback. This tele-ICU rotation allowed students to gain telemedicine exposure and participate in the care of COVID patients in a safe environment.</ab>
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=33466781&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="51">
+  <header shortDbName="edselp" longDbName="ScienceDirect" uiTerm="S0012369215519892">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Chest</jtl>
+        <issn type="electronic">00123692</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2014" month="10" day="01">October 2014</dt>
+        <vid>146</vid>
+        <iid>4</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1378/chest.14-0735</ui>
+        <ppct>1</ppct>
+        <tig>
+          <atl>Evacuation of the ICU: Care of the Critically Ill and Injured During Pandemics and Disasters: CHEST Consensus Statement</atl>
+        </tig>
+        <aug>
+          <au>King, Mary A.</au>
+          <au>Niven, Alexander S.</au>
+          <au>Beninati, William</au>
+          <au>Fang, Ray</au>
+          <au>Einav, Sharon</au>
+          <au>Rubinson, Lewis</au>
+          <au>Kissoon, Niranjan</au>
+          <au>Devereaux, Asha V.</au>
+          <au>Christian, Michael D.</au>
+          <au>Grissom, Colin K.</au>
+        </aug>
+        <sug />
+        <pubtype>Academic Journal</pubtype>
+        <doctype>fla</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edselp&amp;AN=S0012369215519892&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="52">
+  <header shortDbName="edsovi" longDbName="Journals@OVID" uiTerm="edsovi.00002800.202001000.00006">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Clinical Nurse Specialist</jtl>
+        <issn type="print">08876274</issn>
+        <issn type="locals">edsovi</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="01" day="01"></dt>
+        <vid>34</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/NUR.0000000000000496</ui>
+        <ppf>17</ppf>
+        <ppct>2</ppct>
+        <tig>
+          <atl>Developing a Virtual Nursing Team to Support Predictive Analytics and Gaps in Patient Care</atl>
+        </tig>
+        <aug>
+          <au>Lisk, Laure E.</au>
+          <au>Buckley, Jacqueline D.</au>
+          <au>Wilson, Kristine</au>
+          <au>Martinez, Vanessa A.</au>
+          <au>Cadiz, Vilma R.</au>
+          <au>Poropat, Lorelle</au>
+          <au>Scruth, Elizabeth Ann</au>
+        </aug>
+        <ab>PURPOSE/AIMS: Development and implementation of a predictive analytic scoring system in a system of 21 hospitals required 24-hour surveillance to ensure alerts were responded and acted upon. Identification of gaps in patient care created an opportunity to innovate and develop a team to integrate both workflows. DESCRIPTION OF PROJECT/PROGRAM: A Virtual Nurse team of masterʼs degree–prepared nurses with backgrounds in intensive care and management led by a clinical nurse specialist work remotely from their homes. Each nurse is assigned to either of 2 workflows: Advance Alert Monitor—predictive analytic scores or e-Hospital involving capturing of care gaps. The Virtual Nurse team covers 24 hours a day/7 days a week. OUTCOMES: The program has resulted in 169 lives saved and an observed-to-expected mortality of 0.8. Improvements in standard workflows across the system have enabled Rapid Response Teams to be implemented in each hospital. CONCLUSIONS: The success of the Virtual Nurse team has resulted in developments to spread the program into other Kaiser Permanente regions. The Virtual Nurse team has grown to 40 nurses and will expand as the program spreads.</ab>
+        <pubtype>Academic Journal</pubtype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsovi&amp;AN=edsovi.00002800.202001000.00006&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="53">
+  <header shortDbName="pwh" longDbName="Points of View Reference Center" uiTerm="MYO208885655220">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Canadian Press, The</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="07" day="08">Jul 08, 2020</dt>
+      </pubinfo>
+      <artinfo>
+        <formats>
+          <fmt type="HTML Full Text" />
+        </formats>
+        <tig>
+          <atl>SYMBOL:EURONEXT AMSTERDAM:NL0000009538, NYSE:PHG</atl>
+        </tig>
+        <aug />
+        <sug />
+        <pubtype>WIRES</pubtype>
+      </artinfo>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=pwh&amp;AN=MYO208885655220&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="54">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="32608100">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>International journal of nursing practice</jtl>
+        <jtl>Int J Nurs Pract</jtl>
+        <issn type="Electronic">1440-172X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="10" day="01">2020 Oct</dt>
+        <vid>26</vid>
+        <iid>5</iid>
+        <place>Australia</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">32608100</ui>
+        <ui type="doi">10.1111/ijn.12846</ui>
+        <pages>e12846</pages>
+        <formats />
+        <tig>
+          <atl>Protocol-directed sedation versus nonprotocol-directed sedation in mechanically ventilated intensive care adults and children (Review).</atl>
+        </tig>
+        <aug>
+          <au>Scruth E</au>
+        </aug>
+        <sug />
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=32608100&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="55">
+  <header shortDbName="bwh" longDbName="Regional Business News" uiTerm="202012111445PR.NEWS.USPR.UN21631">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>PR Newswire US</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="12" day="11">12/11/2020</dt>
+      </pubinfo>
+      <artinfo>
+        <formats>
+          <fmt type="HTML Full Text" />
+        </formats>
+        <tig>
+          <atl>ModRN Health Supports Federal Government's Development of a Rapid Response Telehealth Capability for COVID-19</atl>
+        </tig>
+        <aug>
+          <au>PR Newswire</au>
+        </aug>
+        <sug>
+          <subj type="geo">Missouri</subj>
+        </sug>
+        <ab>KANSAS CITY, Mo., Dec. 11, 2020 /PRNewswire-PRWeb/ -- ModRN Health is one of the teams supporting the U.S. Army Medical Research and Development Command's (USAMRDC) Telemedicine and Advanced Technology Research Center (TATRC) for the rapid development, deployment, and testing of the National Emergency Tele-Critical Care Network (NETCCN). [ABSTRACT FROM PUBLISHER]</ab>
+        <pubtype>News</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=bwh&amp;AN=202012111445PR.NEWS.USPR.UN21631&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="56">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="31833983">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Critical care medicine</jtl>
+        <jtl>Crit Care Med</jtl>
+        <issn type="Electronic">1530-0293</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="01" day="01">2020 Jan</dt>
+        <vid>48</vid>
+        <iid>1</iid>
+        <place>United States</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">31833983</ui>
+        <ui type="doi">10.1097/CCM.0000000000004068</ui>
+        <pages>126-127</pages>
+        <formats />
+        <tig>
+          <atl>Nursing Activities Score, Nurse Patient Ratios, and ICU Mortality: Its More Complicated Than That.</atl>
+        </tig>
+        <aug>
+          <au>Scruth E</au>
+        </aug>
+        <sug>
+          <subj type="major">Intensive Care Units</subj>
+          <subj type="major">Nurse-Patient Relations</subj>
+          <subj type="minor">Hospital Mortality</subj>
+          <subj type="minor">Humans</subj>
+        </sug>
+        <pubtype>Commentary</pubtype>
+        <doctype>Editorial</doctype>
+        <doctype>Comment</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=31833983&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="57">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="31789956">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Clinical nurse specialist CNS</jtl>
+        <jtl>Clin Nurse Spec</jtl>
+        <issn type="Electronic">1538-9782</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="01" day="01">2020 Jan/Feb</dt>
+        <vid>34</vid>
+        <iid>1</iid>
+        <place>United States</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">31789956</ui>
+        <ui type="doi">10.1097/NUR.0000000000000492</ui>
+        <pages>5-7</pages>
+        <formats />
+        <tig>
+          <atl>The Intersection of Architecture/Medicine/Quality and the Clinical Nurse Specialist: Designing for the Prevention of Delirium.</atl>
+        </tig>
+        <aug>
+          <au>Anderson DC</au>
+          <au>Jacoby SR</au>
+          <au>Scruth EA</au>
+        </aug>
+        <sug>
+          <subj type="major">Delirium nursing</subj>
+          <subj type="major">Delivery of Health Care organization &amp; administration</subj>
+          <subj type="major">Nurse Clinicians</subj>
+          <subj type="minor">Humans</subj>
+          <subj type="minor">Mass Screening nursing</subj>
+          <subj type="minor">Mass Screening standards</subj>
+          <subj type="minor">Quality of Health Care</subj>
+        </sug>
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=31789956&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="58">
+  <header shortDbName="pwh" longDbName="Points of View Reference Center" uiTerm="MYO008411415719">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Canadian Press, The</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="12" day="11">Dec 11, 2019</dt>
+      </pubinfo>
+      <artinfo>
+        <formats>
+          <fmt type="HTML Full Text" />
+        </formats>
+        <tig>
+          <atl>SYMBOL:EURONEXT AMSTERDAM:NL0000009538, NYSE:PHG</atl>
+        </tig>
+        <aug />
+        <sug />
+        <pubtype>WIRES</pubtype>
+      </artinfo>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=pwh&amp;AN=MYO008411415719&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="59">
+  <header shortDbName="bwh" longDbName="Regional Business News" uiTerm="6DUU647679699">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Telecomworldwire (M2)</jtl>
+        <issn>13639900</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="12" day="11">Dec 11, 2020</dt>
+      </pubinfo>
+      <artinfo>
+        <formats>
+          <fmt type="HTML Full Text" />
+        </formats>
+        <tig>
+          <atl>TeleMed Hires Chief Medical Officer</atl>
+        </tig>
+        <aug />
+        <sug />
+        <ab>Israel Villanueva, MD, MBA, has been named Chief Medical Officer for Intercept TeleMed, which offers comprehensive and affordable tele-ICU services for hospitals across the country, in addition to tele-ED/ER, tele-psych and tele-trauma surgery support and other services, the company said.</ab>
+        <pubtype>WIRES</pubtype>
+      </artinfo>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=bwh&amp;AN=6DUU647679699&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="60">
+  <header shortDbName="awn" longDbName="Africa-Wide Information" uiTerm="30499844">
+    <controlInfo>
+      <bkinfo>
+        <btl>Clinical Nurse Specialist</btl>
+        <aug>
+          <au>IbrahimAbdullahi S</au>
+          <au>Hartjes, Tonja M</au>
+          <au>Rivera, Lorena</au>
+          <au>Adebayo, Adeyinka</au>
+          <au>Pierre, Louisdon</au>
+          <au>Scruth, Elizabeth</au>
+        </aug>
+      </bkinfo>
+      <jinfo>
+        <jtl>Clinical Nurse Specialist</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2018" month="01" day="01">20180101</dt>
+        <vid>33</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <formats />
+        <ppf>7</ppf>
+        <tig>
+          <atl>Mentoring Researchers in Resource-Poor Countries: The Role of the Clinical Nurse Specialist as Mentor</atl>
+        </tig>
+        <aug>
+          <au>IbrahimAbdullahi S</au>
+          <au>Hartjes, Tonja M</au>
+          <au>Rivera, Lorena</au>
+          <au>Adebayo, Adeyinka</au>
+          <au>Pierre, Louisdon</au>
+          <au>Scruth, Elizabeth</au>
+        </aug>
+        <su>Developing Countries</su>
+        <su>Humans</su>
+        <su>Mentoring</su>
+        <su>Nurse Clinicians</su>
+        <su>Nurse's Role</su>
+        <su>Research Personnel</su>
+        <su>education</su>
+        <pubtype>Journal Article</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=awn&amp;AN=30499844&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="61">
+  <header shortDbName="edselc" longDbName="Scopus®" uiTerm="edselc.2-52.0-85078718623">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Otolaryngology - Head and Neck Surgery (United States)</jtl>
+        <issn>10976817</issn>
+        <issn>01945998</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="08" day="01">1 August 2020</dt>
+        <vid>163</vid>
+        <iid>2</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1177/0194599820902065</ui>
+        <pages>204 - 208</pages>
+        <tig>
+          <atl>Effectiveness of an Advanced Airway Training “Boot Camp” for Family Medicine Physician Trainees</atl>
+        </tig>
+        <aug>
+          <au>Marvin, K.</au>
+          <au>Ambrosio, A.A.</au>
+          <au>Bowman, P.</au>
+          <au>Keller, M.W.</au>
+        </aug>
+        <su>airway management</su>
+        <su>intubation</su>
+        <su>medical education</su>
+        <su>primary care</su>
+        <su>quality improvement</su>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edselc&amp;AN=edselc.2-52.0-85078718623&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="62">
+  <header shortDbName="n5h" longDbName="Newspaper Source Plus" uiTerm="SYD-639K5JBAUQ0N6ODQO4Y">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Newcastle Herald, The (includes the Central Coast Herald)</jtl>
+        <issn>07279825</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2012" month="01" day="24">Jan 24, 2012</dt>
+      </pubinfo>
+      <artinfo>
+        <ppf>15</ppf>
+        <formats>
+          <fmt type="HTML Full Text" />
+        </formats>
+        <tig>
+          <atl>Creating good image</atl>
+        </tig>
+        <aug>
+          <au>JACQUI JONES HEALTH</au>
+        </aug>
+        <sug />
+        <ab>A STRATEGY to increase use of telecommunications technology in healthcare has placed the Hunter as a national leader in the telehealth field, authorities say.</ab>
+        <pubtype>NEWSP</pubtype>
+      </artinfo>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=n5h&amp;AN=SYD-639K5JBAUQ0N6ODQO4Y&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="63">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="32079791">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>The American journal of nursing</jtl>
+        <jtl>Am J Nurs</jtl>
+        <issn type="Electronic">1538-7488</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="03" day="01">2020 Mar</dt>
+        <vid>120</vid>
+        <iid>3</iid>
+        <place>United States</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">32079791</ui>
+        <ui type="doi">10.1097/01.NAJ.0000656308.84951.e5</ui>
+        <pages>23</pages>
+        <formats />
+        <tig>
+          <atl>The Medical Treatment of Botulism.</atl>
+        </tig>
+        <aug>
+          <au>Scruth E</au>
+          <au>Schoenlein M</au>
+        </aug>
+        <sug>
+          <subj type="major">Botulism</subj>
+          <subj type="minor">Humans</subj>
+        </sug>
+        <ab>Editor's note: The mission of Cochrane Nursing is to provide an international evidence base for nurses involved in delivering, leading, or researching nursing care. Cochrane Corner provides summaries of recent systematic reviews from the Cochrane Library. For more information, see https://nursing.cochrane.org.</ab>
+        <pubtype>Journal Article</pubtype>
+        <doctype>Comment</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=32079791&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="64">
+  <header shortDbName="edsovi" longDbName="Journals@OVID" uiTerm="edsovi.00000446.202003000.00015">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>AJN, American Journal of Nursing</jtl>
+        <issn type="print">0002936X</issn>
+        <issn type="locals">edsovi</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="03" day="01"></dt>
+        <vid>120</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/01.NAJ.0000656308.84951.e5</ui>
+        <ppf>23</ppf>
+        <ppct>2</ppct>
+        <tig>
+          <atl>The Medical Treatment of Botulism</atl>
+        </tig>
+        <aug>
+          <au>Scruth, Elizabeth</au>
+          <au>Schoenlein, Max</au>
+        </aug>
+        <ab>Editorʼs note: The mission of Cochrane Nursing is to provide an international evidence base for nurses involved in delivering, leading, or researching nursing care. Cochrane Corner provides summaries of recent systematic reviews from the Cochrane Library. For more information, see https://nursing.cochrane.org.</ab>
+        <pubtype>Academic Journal</pubtype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsovi&amp;AN=edsovi.00000446.202003000.00015&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="65">
+  <header shortDbName="mnh" longDbName="MEDLINE with Full Text" uiTerm="34362356">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>BMC medical education</jtl>
+        <jtl>BMC Med Educ</jtl>
+        <issn type="Electronic">1472-6920</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="08" day="06">2021 Aug 06</dt>
+        <vid>21</vid>
+        <iid>1</iid>
+        <place>England</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">34362356</ui>
+        <ui type="doi">10.1186/s12909-021-02856-9</ui>
+        <pages>419</pages>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>I'm No Superman: fostering physician resilience through guided group discussion of Scrubs.</atl>
+        </tig>
+        <aug>
+          <au>Holtzclaw A</au>
+          <au>Ellis J</au>
+          <au>Colombo C</au>
+        </aug>
+        <sug>
+          <subj type="major">Burnout, Professional prevention &amp; control</subj>
+          <subj type="major">Internship and Residency</subj>
+          <subj type="major">Physicians</subj>
+          <subj type="minor">Curriculum</subj>
+          <subj type="minor">Education, Medical, Graduate</subj>
+          <subj type="minor">Humans</subj>
+        </sug>
+        <ab>Almost half of trainees experience burnout during their career. Despite the Accreditation Council on Graduate Medical Education (ACGME) recommendation that training programs enact well-being curricula, there is no proven method of addressing this difficult topic.</ab>
+        <ab>We created a curriculum addressing physician resiliency and well-being, designed for an Internal Medicine Residency Program. This curriculum utilized episodes from a medical television series, Scrubs, to facilitate a monthly, 1-h faculty guided discussion group. We collected informal feedback and abbreviated Maslach Burnout Inventories (aMBI) monthly and conducted a formal focus group after 6 months to gauge its effectiveness.</ab>
+        <ab>The curriculum was successfully conducted for 12 months with each session averaging 18-20 residents. Residents reported high satisfaction, stating it was more enjoyable and helpful than traditional resiliency training. 19 of 24 residents (79 %) completed a baseline aMBI, and 17 of 20 residents (85 %) who attended the most recent session completed the 6-month follow-up, showing a non-significant 1-point improvement in all subsets of the aMBI.</ab>
+        <ab>This novel, low-cost, easily implemented curriculum addressed resiliency and burn-out in an Internal Medicine Residency. It was extremely well received and can easily be expanded to other training programs or to providers outside of training.</ab>
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=mnh&amp;AN=34362356&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="66">
+  <header shortDbName="edsovi" longDbName="Journals@OVID" uiTerm="edsovi.00002800.202107000.00005">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Clinical Nurse Specialist</jtl>
+        <issn type="print">08876274</issn>
+        <issn type="locals">edsovi</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="07" day="01"></dt>
+        <vid>35</vid>
+        <iid>4</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/NUR.0000000000000600</ui>
+        <ppf>167</ppf>
+        <ppct>2</ppct>
+        <tig>
+          <atl>Exercise Therapies for Preventing or Treating Aromatase Inhibitor–Induced Musculoskeletal Symptoms in Early Breast Cancer</atl>
+        </tig>
+        <aug>
+          <au>Scruth, Elizabeth</au>
+        </aug>
+        <pubtype>Academic Journal</pubtype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsovi&amp;AN=edsovi.00002800.202107000.00005&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="67">
+  <header shortDbName="edselp" longDbName="ScienceDirect" uiTerm="S1036731421000126">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Australian Critical Care</jtl>
+        <issn type="electronic">10367314</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="03" day="01">March 2021</dt>
+        <vid>34</vid>
+        <iid>2</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.aucc.2021.02.002</ui>
+        <ppf>117</ppf>
+        <ppct>2</ppct>
+        <tig>
+          <atl>2020 the year we wish never was</atl>
+        </tig>
+        <aug>
+          <au>Scruth, Elizabeth</au>
+        </aug>
+        <sug />
+        <pubtype>Editorial</pubtype>
+        <doctype>edi</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edselp&amp;AN=S1036731421000126&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="68">
+  <header shortDbName="edsovi" longDbName="Journals@OVID" uiTerm="edsovi.00002800.202101000.00003">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Clinical Nurse Specialist</jtl>
+        <issn type="print">08876274</issn>
+        <issn type="locals">edsovi</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="01" day="01"></dt>
+        <vid>35</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/NUR.0000000000000564</ui>
+        <ppf>8</ppf>
+        <ppct>2</ppct>
+        <tig>
+          <atl>The Increasing Need for Mental Health Services: Do We Have Enough Mental Health Providers?</atl>
+        </tig>
+        <aug>
+          <au>Scruth, Elizabeth Ann</au>
+        </aug>
+        <pubtype>Academic Journal</pubtype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsovi&amp;AN=edsovi.00002800.202101000.00003&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="69">
+  <header shortDbName="edsovi" longDbName="Journals@OVID" uiTerm="edsovi.00002800.202011000.00006">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Clinical Nurse Specialist</jtl>
+        <issn type="print">08876274</issn>
+        <issn type="locals">edsovi</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="11" day="01"></dt>
+        <vid>34</vid>
+        <iid>6</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/NUR.0000000000000552</ui>
+        <ppf>261</ppf>
+        <ppct>2</ppct>
+        <tig>
+          <atl>Supervised Dosing With a Long-Acting Opioid Medication in the Management of Opioid Dependence</atl>
+        </tig>
+        <aug>
+          <au>Dover, Jeffrey</au>
+          <au>Scruth, Elizabeth</au>
+        </aug>
+        <pubtype>Academic Journal</pubtype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsovi&amp;AN=edsovi.00002800.202011000.00006&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="70">
+  <header shortDbName="edselc" longDbName="Scopus®" uiTerm="edselc.2-52.0-85067615837">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Clinical Nurse Specialist</jtl>
+        <issn>15389782</issn>
+        <issn>08876274</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="07" day="01">1 July 2019</dt>
+        <vid>33</vid>
+        <iid>4</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/NUR.0000000000000455</ui>
+        <pages>155 - 158</pages>
+        <tig>
+          <atl>Publication: Creating a Culture Where Ethical Practices Are the Norm</atl>
+        </tig>
+        <aug>
+          <au>Summer-Gafford, G.J.</au>
+          <au>Jang, H.</au>
+          <au>Scruth, E.A.</au>
+        </aug>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edselc&amp;AN=edselc.2-52.0-85067615837&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="71">
+  <header shortDbName="edselc" longDbName="Scopus®" uiTerm="edselc.2-52.0-85064239103">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Clinical Nurse Specialist</jtl>
+        <issn>15389782</issn>
+        <issn>08876274</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="05" day="01">1 May 2019</dt>
+        <vid>33</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/NUR.0000000000000442</ui>
+        <pages>106 - 109</pages>
+        <tig>
+          <atl>The Transition from Expert to Novice and Back to Expert: Ensuring Competent and Safe Practice</atl>
+        </tig>
+        <aug>
+          <au>Scruth, E.A.</au>
+          <au>Kawar, L.N.</au>
+          <au>Dunbar, G.</au>
+        </aug>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edselc&amp;AN=edselc.2-52.0-85064239103&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="72">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="71896474">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Critical Care Medicine</jtl>
+        <issn>00903493</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2012" month="02" day="01">Feb2012</dt>
+        <vid>40</vid>
+        <iid>2</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/CCM.0b013e318238789b</ui>
+        <ppf>697</ppf>
+        <ppct>2</ppct>
+        <formats />
+        <tig>
+          <atl>Triaging the fittest: Practical wisdom versus logical calculus?</atl>
+        </tig>
+        <aug>
+          <au>Szalados, James E.</au>
+          <affil>Surgical Intensive Care Unit and Tele-Critical Care, Rochester General Hospital, University of Rochester, Rochester, NY</affil>
+          <affil>Anesthesiology and Critical Care, Unity and Lakeside Hospitals, Rochester, NY</affil>
+          <affil>The Szalados Law Firm, Rochester, NY</affil>
+        </aug>
+        <sug>
+          <subj type="thes">MEDICAL triage</subj>
+          <subj type="thes">HAITI Earthquake, Haiti, 2010</subj>
+          <subj type="thes">EARTHQUAKES</subj>
+          <subj type="thes">HUMANISM</subj>
+          <subj type="thes">MEDICAL students</subj>
+          <subj type="thes">EDUCATION</subj>
+          <subj type="naics">Administration of Education Programs</subj>
+          <subj type="naics">All Other Miscellaneous Schools and Instruction</subj>
+          <subj type="naics">Educational Support Services</subj>
+          <subj type="unclass">HAITI</subj>
+        </sug>
+        <ab>The author comments on the application of an analytical and individualized decision tool to pediatric triage case scenarios following the 2010 Haiti earthquake published by A. Ytzhak and colleagues within the issue. He discusses the key role of a complex form of ethical analysis called phronesis in the necessity for humanism education for medical students. The individualized nature of patients was considered by the group. The effectiveness of the individualized triage tool is highlighted.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Editorial</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=71896474&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="73">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="33629746">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>JPEN. Journal of parenteral and enteral nutrition</jtl>
+        <jtl>JPEN J Parenter Enteral Nutr</jtl>
+        <issn type="Electronic">1941-2444</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="07" day="01">2021 Jul</dt>
+        <vid>45</vid>
+        <iid>5</iid>
+        <place>United States</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">33629746</ui>
+        <ui type="doi">10.1002/jpen.2091</ui>
+        <pages>865-866</pages>
+        <formats />
+        <tig>
+          <atl>Nutrition Therapy in COVID-19 Is Not That Simple.</atl>
+        </tig>
+        <aug>
+          <au>Sriram K</au>
+        </aug>
+        <sug>
+          <subj type="major">COVID-19</subj>
+          <subj type="major">Nutrition Therapy</subj>
+          <subj type="minor">Humans</subj>
+          <subj type="minor">Nutritional Support</subj>
+          <subj type="minor">SARS-CoV-2</subj>
+        </sug>
+        <pubtype>Commentary</pubtype>
+        <doctype>Letter</doctype>
+        <doctype>Comment</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=33629746&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="74">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="34037570">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Gastroenterology nursing : the official journal of the Society of Gastroenterology Nurses and Associates</jtl>
+        <jtl>Gastroenterol Nurs</jtl>
+        <issn type="Electronic">1538-9766</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="05" day="01">2021 May-Jun 01</dt>
+        <vid>44</vid>
+        <iid>3</iid>
+        <place>United States</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">34037570</ui>
+        <ui type="doi">10.1097/SGA.0000000000000606</ui>
+        <pages>207-209</pages>
+        <formats />
+        <tig>
+          <atl>FEED THICKENER FOR INFANTS UP TO 6 MONTHS OF AGE WITH GASTROESOPHAGEAL REFLUX (REVIEW).</atl>
+        </tig>
+        <aug>
+          <au>Pang-Hamtak A</au>
+          <au>Peterson B</au>
+        </aug>
+        <sug />
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=34037570&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="75">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="33793171">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Clinical nurse specialist CNS</jtl>
+        <jtl>Clin Nurse Spec</jtl>
+        <issn type="Electronic">1538-9782</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="05" day="01">2021 May-Jun 01</dt>
+        <vid>35</vid>
+        <iid>3</iid>
+        <place>United States</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">33793171</ui>
+        <ui type="doi">10.1097/NUR.0000000000000588</ui>
+        <pages>109-111</pages>
+        <formats />
+        <tig>
+          <atl>The Dangers of Flawed Methodology in Research: Our Patient's Lives Depend on Us to be the Knowledge Brokers.</atl>
+        </tig>
+        <aug>
+          <au>Mignone A</au>
+        </aug>
+        <sug>
+          <subj type="major">Knowledge</subj>
+          <subj type="major">Nurse Clinicians psychology</subj>
+          <subj type="major">Research Design standards</subj>
+          <subj type="minor">Humans</subj>
+        </sug>
+        <pubtype>Journal Article</pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=33793171&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="76">
+  <header shortDbName="edsovi" longDbName="Journals@OVID" uiTerm="edsovi.00002800.201911000.00003">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Clinical Nurse Specialist</jtl>
+        <issn type="print">08876274</issn>
+        <issn type="locals">edsovi</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="11" day="01"></dt>
+        <vid>33</vid>
+        <iid>6</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/NUR.0000000000000479</ui>
+        <ppf>250</ppf>
+        <ppct>2</ppct>
+        <tig>
+          <atl>Applying an Ethical Approach to Building Great Preceptorships</atl>
+        </tig>
+        <aug>
+          <au>Brown, Haley</au>
+          <au>Lisk, Laure E.</au>
+          <au>Scruth, Elizabeth Ann</au>
+        </aug>
+        <pubtype>Academic Journal</pubtype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsovi&amp;AN=edsovi.00002800.201911000.00003&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="77">
+  <header shortDbName="edsovi" longDbName="Journals@OVID" uiTerm="edsovi.00002800.201905000.00003">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Clinical Nurse Specialist</jtl>
+        <issn type="print">08876274</issn>
+        <issn type="locals">edsovi</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="05" day="01"></dt>
+        <vid>33</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/NUR.0000000000000442</ui>
+        <ppf>106</ppf>
+        <ppct>2</ppct>
+        <tig>
+          <atl>The Transition From Expert to Novice and Back to Expert: Ensuring Competent and Safe Practice</atl>
+        </tig>
+        <aug>
+          <au>Dunbar, Ghada</au>
+          <au>Kawar, Lina Najib</au>
+          <au>Scruth, Elizabeth Ann</au>
+        </aug>
+        <pubtype>Academic Journal</pubtype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsovi&amp;AN=edsovi.00002800.201905000.00003&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="78">
+  <header shortDbName="edsovi" longDbName="Journals@OVID" uiTerm="edsovi.00002800.201901000.00003">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Clinical Nurse Specialist</jtl>
+        <issn type="print">08876274</issn>
+        <issn type="locals">edsovi</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="01" day="01"></dt>
+        <vid>33</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/NUR.0000000000000413</ui>
+        <ppf>7</ppf>
+        <ppct>2</ppct>
+        <tig>
+          <atl>Mentoring Researchers in Resource-Poor Countries: The Role of the Clinical Nurse Specialist as Mentor</atl>
+        </tig>
+        <aug>
+          <au>Ibrahim, Abdullahi S.</au>
+          <au>Hartjes, Tonja M.</au>
+          <au>Rivera, Lorena</au>
+          <au>Adebayo, Adeyinka</au>
+          <au>Pierre, Louisdon</au>
+          <au>Scruth, Elizabeth</au>
+        </aug>
+        <pubtype>Academic Journal</pubtype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edsovi&amp;AN=edsovi.00002800.201901000.00003&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="79">
+  <header shortDbName="cmedm" longDbName="MEDLINE" uiTerm="32394469">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Research in nursing &amp; health</jtl>
+        <jtl>Res Nurs Health</jtl>
+        <issn type="Electronic">1098-240X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="12" day="01">2020 Dec</dt>
+        <vid>43</vid>
+        <iid>6</iid>
+        <place>United States</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">32394469</ui>
+        <ui type="doi">10.1002/nur.22026</ui>
+        <pages>673-674</pages>
+        <formats />
+        <tig>
+          <atl>Interventions for preventing falls in people after stroke.</atl>
+        </tig>
+        <aug>
+          <au>Scruth E</au>
+        </aug>
+        <sug>
+          <subj type="major">Accidental Falls prevention &amp; control</subj>
+          <subj type="major">Stroke physiopathology</subj>
+          <subj type="minor">Adult</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Humans</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Middle Aged</subj>
+          <subj type="minor">Randomized Controlled Trials as Topic</subj>
+          <subj type="age">Adult: 19-44 years</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">All Adult: 19+ years</subj>
+          <subj type="gender">Female</subj>
+          <subj type="gender">Male</subj>
+        </sug>
+        <pubtype>Commentary</pubtype>
+        <doctype>Editorial</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cmedm&amp;AN=32394469&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="80">
+  <header shortDbName="nsm" longDbName="Newswires" uiTerm="6CU92001071420210208005360">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Business Wire (English)</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="02" day="08"></dt>
+      </pubinfo>
+      <artinfo>
+        <formats>
+          <fmt type="HTML Full Text" />
+        </formats>
+        <tig>
+          <atl>Home Healthcare Markets, 2027 - Increasing Growth of the Home-Based Tele-Critical Care &amp; Isolation Due to COVID-19 Pandemic - ResearchAndMarkets.com</atl>
+        </tig>
+        <aug />
+        <sug />
+        <pubtype></pubtype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=nsm&amp;AN=6CU92001071420210208005360&amp;site=eds-live&amp;scope=site</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec></records>
